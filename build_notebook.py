@@ -32,7 +32,7 @@ Runtime is about 1.5–3 h on a standard CPU runtime. Set `FAST = True` in the c
 | 9 | Epidemiological statistics |
 | 10 | Figures and export |
 
-Host and species names are **placeholders with suggestions (†)** until `FINAL_*` columns in `metadata/*.csv` are filled in. After that, `scripts/make_figures.py` re-renders everything locally.
+Host and species names are read from the `FINAL_*` columns of `metadata/*.csv`; edit them there and `scripts/make_figures.py` re-renders every figure locally. Figure colours follow `FIGURE_COLOUR_KEY.md`.
 """)
 
 md("## 0. Setup")

@@ -15,6 +15,8 @@ partial Rep sequences*. Ten partial ORF1/Rep sequences are in GenBank (PX634653-
 | `results/` | Everything the Colab run produced: trees, alignments, placement, HyPhy JSON, tables, figures, statistics, `versions.txt` |
 | `manuscript/` | `build_manuscript.js` and `build_cover_letter.js` (docx-js) and `references.json` |
 | `verify/` | Independent verification script and its latest report |
+| `FIGURE_COLOUR_KEY.md` | Colour tokens and labelling rules shared by all figures |
+| `Supplementary_Tables.xlsx` | Supplementary Tables S1–S7 (built by `scripts/make_supplement.py`) |
 
 ## Reproducing
 1. **Statistics, figures, supplementary tables (minutes, any computer).**
@@ -50,6 +52,14 @@ regression re-implemented independently, alignment rows compared with the submit
 diversity indices, placement re-derived from the `.jplace` file, HyPhy outputs, all 589 reference host/country values
 compared with the raw GenBank records, and the numbers printed in the manuscript). The heavy tools (IQ-TREE, EPA-ng, HyPhy)
 are not re-run by this script; their saved outputs are checked for consistency instead.
+
+## Figures
+`scripts/make_figures.py` writes Fig 1–5 and Fig S1–S4 (TIFF 600 dpi, PDF, PNG) into `results/figures/`. Figure labels use host species
+instead of isolate IDs; the ID-to-host table is Supplementary Table S6 and the 589 references are in Table S7. The haplotype-network
+layout (Fig 5B) is computed deterministically (fixed seed) and takes about a minute.
+
+## How to cite
+Cite the manuscript and the archived release of this repository: (DOI to be added after the Zenodo release).
 
 ## License
 Code: MIT (see `LICENSE`; the copyright holder has to be confirmed by the authors). Sequence data: see the GenBank records.

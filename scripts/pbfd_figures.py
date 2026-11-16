@@ -66,13 +66,6 @@ def save(fig, out: Path, name: str, exts=("pdf", "png", "tiff"), dpi=600):
     plt.close(fig)
 
 
-def pending_note(ax_or_fig):
-    return  # final names applied; no pending-name footnote
-    txt = f"{DAGGER} name pending verification (placeholder / suggested)"
-    (ax_or_fig.text(0.0, -0.02, txt, fontsize=6, color="0.4", transform=ax_or_fig.transFigure, va="top")
-     if hasattr(ax_or_fig, "transFigure") else None)
-
-
 # ------------------------------------------------------------------ Fig 1: prevalence
 def fig_prevalence(prev: dict, meta_dir: Path, out: Path):
     groups = load_species_groups(meta_dir)

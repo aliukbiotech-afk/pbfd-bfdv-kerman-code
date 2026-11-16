@@ -66,7 +66,6 @@ def render_all(res: Path, meta: Path) -> list[str]:
         mt = pd.read_csv(tab / "rep_motifs_kerman.csv") if (tab / "rep_motifs_kerman.csv").exists() else None
         F.fig_selection(pd.read_csv(tab / "selection_sites.csv"), {r.motif: (r.start, r.end) for r in mot.itertuples()}, fig, mt, meta)
         done.append("FigS3")
-    species_legend_table(meta).to_csv(fig / "LEGEND_placeholder_names.csv", index=False)
     load_host_mapping(meta).to_csv(fig / "LEGEND_isolate_hosts.csv", index=False)
     print("rendered:", done, "| pending names:", pending_names(meta))
     return done
