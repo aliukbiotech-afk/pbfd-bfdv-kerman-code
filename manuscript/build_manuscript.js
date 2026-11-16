@@ -4,7 +4,21 @@ const fs = require("fs");
 const path = require("path");
 const D = require(process.env.DOCX_PATH || "docx");
 const { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, AlignmentType, HeadingLevel,
-        BorderStyle, WidthType, ShadingType, LevelFormat, PageNumber, Footer, LineRuleType } = D;
+        BorderStyle, WidthType, ShadingType, LevelFormat, PageNumber, Footer, LineRuleType, ImageRun } = D;
+
+
+// ------------------------------------------------------------------ embedded figures (downsized PNG copies of the final figures)
+const FIG_DIR = process.env.FIG_DIR || path.join(__dirname, "docxfigs");
+function figImg(n) {
+  const buf = fs.readFileSync(path.join(FIG_DIR, `Fig${n}.png`));
+  const w0 = buf.readUInt32BE(16), h0 = buf.readUInt32BE(20);
+  const maxW = 600, maxH = 640;                      // px at 96 dpi (about 6.25 in x 6.7 in)
+  const k = Math.min(maxW / w0, maxH / h0);
+  return new Paragraph({ alignment: AlignmentType.CENTER, keepNext: true, pageBreakBefore: n > 1,
+    spacing: { before: 120, after: 120 },
+    children: [new ImageRun({ type: "png", data: buf, transformation: { width: Math.round(w0 * k), height: Math.round(h0 * k) },
+      altText: { title: `Figure ${n}`, description: `Figure ${n}`, name: `Fig${n}` } })] });
+}
 
 // ------------------------------------------------------------------ helpers
 const PENDING = [];
@@ -150,7 +164,7 @@ C.push(H1("5. Conclusions"));
 C.push(P("Subclinical BFDV infection is frequent among pet parrots in Kerman and is not confined to particular host groups or to either sex. The local viruses carry a conserved Rep and belong mainly to sub-clade GI-c (eight of ten sequences) and, in two cases, to GI-f or GI-d of the global BFDV phylogeny, together with strains circulating in Italy, Saudi Arabia, Poland, Bangladesh and elsewhere in Iran. Routine PCR screening of birds entering shops and breeding facilities, quarantine of new birds and improved traceability of the domestic and international trade are recommended. Phylogenetic placement on a full-genome backbone offers a practical way to genotype the short diagnostic sequences that dominate BFDV surveillance."));
 
 C.push(H1("Declarations"));
-C.push(P("**Ethics statement:** [[PENDING: ethics approval code and statement, as in Section 2.1]]. **Funding:** [[PENDING: funding sources]]. **Conflict of interest:** The authors declare no conflict of interest. **Author contributions:** [[PENDING: CRediT]]. **Data availability:** Sequences are available in GenBank (PX634653–PX634662). Survey data, alignments, trees, the Colab notebook and the analysis code are provided in a public code repository ([[PENDING: repository URL and DOI, e.g. GitHub with a Zenodo archive]]) and as Supplementary Material."));
+C.push(P("**Ethics statement:** [[PENDING: ethics approval code and statement, as in Section 2.1]]. **Funding:** [[PENDING: funding sources]]. **Conflict of interest:** The authors declare no conflict of interest. **Author contributions:** [[PENDING: CRediT]]. **Data availability:** Sequences are available in GenBank (PX634653–PX634662). Survey data, alignments, trees, the Colab notebook and the analysis code are provided in a public code repository (https://github.com/aliukbiotech-afk/pbfd-bfdv-kerman-code; archived release DOI [[PENDING: Zenodo DOI; make the repository public before submission]]) and as Supplementary Material."));
 
 // ------------------------------------------------------------------ tables
 C.push(H1("Tables"));
@@ -203,10 +217,15 @@ C.push(...table(["Isolate (accession)", "Host", "EPA-ng sub-clade (LWR)", "Const
   "LWR, cumulative likelihood weight ratio of EPA-ng placements on the 429-genome backbone. No label: the constrained amplicon tree had no uniformly labelled clade around the sequence. Pb64 is unresolved between GI-d and GI-f."));
 
 C.push(H1("Figure legends"));
+C.push(figImg(1));
 C.push(P("**Figure 1.** BFDV detection in clinically healthy pet psittacines, Kerman. (A) Percentage of PCR-positive birds by host group with Wilson 95% confidence intervals (n = birds tested; dashed line, overall frequency of 31.6%). (B) Percentage positive by sex, with positive/total in the bars. Host-group colours are the same in Figures 1 and 2 and Figure S2."));
+C.push(figImg(2));
 C.push(P("**Figure 2.** Who was tested and who was positive. All 136 birds are shown in three columns of equal height: host group (with positive/total), PCR result and sex. PCR-positive birds (43) occur in every host group and in both sexes (22 females, 21 males), and positivity was not associated with host group (Monte Carlo p = 0.29) or sex (Fisher p = 1.00). PCR band intensity of the positive birds is not shown here and is reported in the text and Table S2."));
+C.push(figImg(3));
 C.push(P("**Figure 3.** Maximum-likelihood tree of the ORF1 amplicon showing the Kerman sequences (orange), other Iranian strains (pink), their nearest references and representatives of each sub-clade. Tip labels give host species, country and year (isolate and accession numbers are in Tables S6 and S7). The coloured bar shows the sub-clade (Shah et al., 2023); its colours are identical in Figures 3 and 4 and Figures S1 and S4. Dots mark nodes with UFBoot ≥ 95% and SH-aLRT ≥ 80%. Model TIM2+I+R4; 599 sequences × 651 sites."));
+C.push(figImg(4));
 C.push(P("**Figure 4.** Genotype assignment of the ten Kerman Rep sequences by phylogenetic placement. *What is shown:* each bar is one Kerman sequence, placed with EPA-ng on a reference tree of 429 complete BFDV genomes whose sub-clades GI-a to GI-f follow Shah et al. (2023). Segments give the likelihood weight ratio (LWR), i.e. the probability that the sequence belongs to each sub-clade; hatched, weight on branches without a sub-clade label. *Why it is needed:* a 651-nt fragment cannot be classified reliably by sequence identity alone, so placement on a whole-genome tree is used both to name the sub-clade and to measure how certain that name is. *Take-home message:* eight sequences fall in GI-c (LWR 0.90–1.00), one (Pb23) in GI-f (1.00), and one (Pb64) is split between GI-d (0.56) and GI-f (0.36) and is therefore left unresolved. Bars are labelled by host species and ordered, from top to bottom, S27, Pb34, Pb24, Pb30, S7, Pb22, Pb28, Pb25, Pb64, Pb23 (Table S6)."));
+C.push(figImg(5));
 C.push(P("**Figure 5.** (A) Pairwise nucleotide identity among the Kerman sequences (orange, *) and other Iranian sequences, labelled by host species (genus abbreviated). (B) Minimum-spanning haplotype network of the same sequences and their nearest non-Iranian references. Each circle is one haplotype and numbers on links are nucleotide substitutions; colours show origin (orange, this study; pink, other Iranian strains; grey, nearest non-Iranian strains). Isolate and accession numbers are in Tables S6 and S7."));
 C.push(P("**Supplementary figures.** **Figure S1.** Complete maximum-likelihood tree of the 599 amplicon sequences (host species, country, year; sub-clade bar as in Figure 3). **Figure S2.** Quality of the forward Sanger reads, ranked from best to worst: bars give the percentage of trimmed bases with Phred ≥ 20 and the mean Phred score; colours are the host groups of Figure 1. The two lowest-ranking reads (both cockatiels, S7 and S27) are among those with incomplete coverage or reduced identity to the submitted sequence (Table S1). **Figure S3.** Selection and conserved motifs in the 217-codon Rep fragment. (A) Site-wise significance (−log10 p) of FEL and MEME; all 65 codons with FEL p < 0.1 are under purifying selection and no codon shows positive or episodic selection; blue bands mark the two rolling-circle-replication motifs (II, III) and the three SF3-helicase motifs (Walker A, Walker B, C). (B) Residues at the five motifs in the ten Kerman isolates compared with their consensus: all isolates are identical at every motif except one (Pb23, Walker B VILDD instead of VVLDD, highlighted). Rows are labelled by host species and ordered Pb34; Pb24, Pb25, Pb28, S27, S7; Pb22; Pb23, Pb30; Pb64. **Figure S4.** Maximum-likelihood tree of the 429 full genomes used as the placement backbone (host species, country, year; sub-clade bar as in Figure 3). Tables S1–S7 and the analysis notebook are provided as supplementary files."));
 

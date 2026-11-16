@@ -13,7 +13,7 @@ partial Rep sequences*. Ten partial ORF1/Rep sequences are in GenBank (PX634653-
 | `PBFD_analysis.ipynb`, `build_notebook.py` | Google Colab notebook that runs the whole analysis (21 code cells), and the script that generates it |
 | `headless/`, `make_headless.py` | The same 21 cells as plain scripts for unattended runs (used with the Google Colab CLI) |
 | `results/` | Everything the Colab run produced: trees, alignments, placement, HyPhy JSON, tables, figures, statistics, `versions.txt` |
-| `manuscript/` | `build_manuscript.js` and `build_cover_letter.js` (docx-js) and `references.json` |
+| `manuscript/` | `build_manuscript.js` and `build_cover_letter.js` (docx-js; set `DOCX_PATH` to the docx module), `docxfigs/` (downsized figure copies embedded in the manuscript) and `references.json` |
 | `verify/` | Independent verification script and its latest report |
 | `FIGURE_COLOUR_KEY.md` | Colour tokens and labelling rules shared by all figures |
 | `Supplementary_Tables.xlsx` | Supplementary Tables S1–S7 (built by `scripts/make_supplement.py`) |
