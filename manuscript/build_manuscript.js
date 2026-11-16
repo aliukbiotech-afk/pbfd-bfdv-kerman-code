@@ -204,7 +204,7 @@ C.push(...table(["Isolate (accession)", "Host", "EPA-ng sub-clade (LWR)", "Const
 
 C.push(H1("Figure legends"));
 C.push(P("**Figure 1.** BFDV detection in clinically healthy pet psittacines, Kerman. (A) Percentage PCR-positive by host group with Wilson 95% confidence intervals; dashed line, overall frequency. (B) Percentage positive by sex."));
-C.push(P("**Figure 2.** Alluvial diagram linking host group, PCR band intensity and sex for the 136 birds."));
+C.push(P("**Figure 2.** Alluvial diagram of host group (all 136 birds), PCR band intensity (the 43 positive birds only; negative birds have no band and are not drawn) and sex."));
 C.push(P("**Figure 3.** Maximum-likelihood tree of the ORF1 amplicon showing the Kerman sequences (orange), other Iranian strains (pink), their nearest references and representatives of each sub-clade. The coloured bar shows the sub-clade (Shah et al., 2023). Dots mark nodes with UFBoot ≥ 95% and SH-aLRT ≥ 80%. Model TIM2+I+R4; 599 sequences × 651 sites."));
 C.push(P("**Figure 4.** Cumulative likelihood weight ratio of EPA-ng placements of each Kerman sequence on the full-genome backbone, by sub-clade."));
 C.push(P("**Figure 5.** (A) Pairwise nucleotide identity among Kerman and other Iranian sequences. (B) Minimum-spanning haplotype network of the Kerman sequences and their nearest references; numbers on edges are substitutions."));

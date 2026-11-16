@@ -253,7 +253,7 @@ def fig_identity_network(D: pd.DataFrame, G, hap_of: dict, hap_counts, node_attr
     for h in G.nodes:
         members = [n for n, hh in hap_of.items() if hh == h]
         groups = collections.Counter(node_attr.get(m, "other") for m in members)
-        r = 0.035 + 0.02 * math.sqrt(len(members))
+        r = 0.02 + 0.012 * math.sqrt(len(members))
         start = 0
         cols = {"this study (Kerman)": KERMAN_COL, "Iran (other)": IRAN_COL}
         for gname, k in groups.items():
@@ -261,7 +261,7 @@ def fig_identity_network(D: pd.DataFrame, G, hap_of: dict, hap_counts, node_attr
             from matplotlib.patches import Wedge
             b.add_patch(Wedge(pos[h], r, start, start + ang, color=cols.get(gname, "0.6"), zorder=2, ec="k", lw=0.3))
             start += ang
-        b.text(pos[h][0], pos[h][1] - r - 0.04, h, fontsize=5, ha="center")
+        b.text(pos[h][0], pos[h][1] - r - 0.03, h, fontsize=5, ha="center")
     b.set_aspect("equal"); b.axis("off")
     b.set_title("B  Minimum-spanning haplotype network\n(numbers = substitutions)", loc="left", fontweight="bold", fontsize=7)
     from matplotlib.patches import Patch
