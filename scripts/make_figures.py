@@ -24,7 +24,10 @@ def render_all(res: Path, meta: Path) -> list[str]:
     fig = res / "figures"; tab = res / "tables"; done = []
     # Fig 1-2: epidemiology (fast, recomputed from metadata so new names propagate)
     birds = S.load_birds(meta); prev = S.prevalence_tables(birds)
-    F.fig_prevalence(prev, meta, fig); F.fig_alluvial(birds, meta, fig); done += ["Fig1", "Fig2"]
+    import json
+    ap = res / "stats" / "association_tests.json"
+    assoc = json.load(open(ap)) if ap.exists() else None
+    F.fig_prevalence(prev, meta, fig); F.fig_alluvial(birds, meta, fig, note=(f"Positivity was not associated with host group (Monte Carlo p = {assoc['species_vs_positivity']['p']:.2f}) or sex (Fisher p = {assoc['sex_vs_positivity']['p']:.2f})" if assoc else None)); done += ["Fig1", "Fig2"]
     refmd = {}
     if (tab / "reference_metadata_merged.csv").exists():
         md = pd.read_csv(tab / "reference_metadata_merged.csv")
@@ -53,14 +56,15 @@ def render_all(res: Path, meta: Path) -> list[str]:
         mem = pd.read_csv(tab / "network_members.csv")
         hap, _ = P.haplotypes(aln, list(mem.tip))
         G = P.haplotype_msn(hap["seq_by_hap"])
-        F.fig_identity_network(D, G, hap["hap_of"], hap["counts"], dict(mem[["tip", "group"]].values), meta, fig)
+        F.fig_identity_network(D, G, hap["hap_of"], hap["counts"], dict(mem[["tip", "group"]].values), meta, fig, refmd)
         done.append("Fig5")
     # supplementary
     if (tab / "sanger_qc.csv").exists():
-        F.fig_sanger_qc(pd.read_csv(tab / "sanger_qc.csv"), fig); done.append("FigS2")
+        F.fig_sanger_qc(pd.read_csv(tab / "sanger_qc.csv"), fig, meta); done.append("FigS2")
     if (tab / "selection_sites.csv").exists():
         mot = pd.read_csv(tab / "rep_motif_codons.csv") if (tab / "rep_motif_codons.csv").exists() else pd.DataFrame(columns=["motif", "start", "end"])
-        F.fig_selection(pd.read_csv(tab / "selection_sites.csv"), {r.motif: (r.start, r.end) for r in mot.itertuples()}, fig)
+        mt = pd.read_csv(tab / "rep_motifs_kerman.csv") if (tab / "rep_motifs_kerman.csv").exists() else None
+        F.fig_selection(pd.read_csv(tab / "selection_sites.csv"), {r.motif: (r.start, r.end) for r in mot.itertuples()}, fig, mt, meta)
         done.append("FigS3")
     species_legend_table(meta).to_csv(fig / "LEGEND_placeholder_names.csv", index=False)
     load_host_mapping(meta).to_csv(fig / "LEGEND_isolate_hosts.csv", index=False)

@@ -51,12 +51,12 @@ def host_label(voucher: str, hosts: pd.DataFrame, style: str = "plot") -> str:
 
 
 def kerman_tip_label(tip: str, hosts: pd.DataFrame) -> str:
-    """'PX634656_Kerman_S7' -> 'PX634656 Kerman S7 | <host label>'"""
+    """'PX634656_Kerman_S7' -> '<host> · Iran-Kerman'"""
     parts = tip.split("_Kerman_")
     if len(parts) != 2:
         return tip
     acc, v = parts
-    return f"{acc} Iran-Kerman {v} | {host_label(v, hosts)}"
+    return f"{host_label(v, hosts)} · Iran-Kerman"
 
 
 def pending_names(meta_dir: Path) -> dict:

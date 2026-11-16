@@ -63,3 +63,17 @@ Notes
 - All figures re-rendered without placeholders or daggers. Fig 3 legend overlap and the "nan" host label were fixed; the Fig 5 legend was moved below the panel.
 - RF distance between the TIM2+I+R4 and TIM3+F+I+G4 amplicon trees is 308 (from `rf_MFP_vs_TIM3.rfdist`), not the 354 recorded earlier. Log-likelihoods: -16,659 vs -16,725.
 - Manuscript v3 built from these results; 17 [PENDING] markers remain, all of which need information from the authors.
+
+## 9. Update 2026-11-16 (editorial figure comments applied)
+Source: `comments.txt` plus the author's follow-up (species names instead of IDs, no overlapping text, no text on Fig 4 bars, roomier Fig 5B).
+| Figure | Change | Check |
+|---|---|---|
+| Fig 2 | Redrawn as host group -> PCR result -> sex for all 136 birds; PCR band intensity removed; the three columns have identical height; file renamed `Fig2_alluvial_host_result_sex` | Block totals 73/21/20/10/5/4/3 = 136; positives 25/2/6/5/2/2/1 = 43; 22 F + 21 M; matches `prevalence_by_species.csv` and `association_tests.json` |
+| Fig 3 | Kept (approved); tip labels now host species + country + year; vernacular GenBank hosts mapped to binomials | Same topology and clade strip as before |
+| Fig 4 | Bars sorted by clade, no text on bars, hatched remainder = LWR on unlabelled branches; caption gives purpose, rationale and take-home message | LWR values equal `placement_lwr_by_clade.csv` (GI-c 0.90-1.00; Pb23 GI-f 1.00; Pb64 GI-d 0.56 / GI-e 0.02 / GI-f 0.36) |
+| Fig 5 | Heat-map unchanged in content; haplotype network redrawn full-width with distance-based layout, no node/link/label overlaps; species-name labels | 16 haplotypes and the same edge weights as `haplotype_msn`; haplotype membership unchanged |
+| Fig S2 | Bars ranked by Q20, host species on the y axis | Values equal `sanger_qc.csv` |
+| Fig S3 | Panel B added: residues at the five Rep motifs in the ten isolates | Equals `rep_motifs_kerman.csv` (only Pb23 differs: VILDD) |
+| All | One colour token system (`FIGURE_COLOUR_KEY.md`); no hex shared by two meanings | - |
+Rendering was checked visually for every figure; `verify_reproducibility.py` still passes 45/45.
+Caveat: because isolate IDs are no longer printed, rows with the same species (e.g. five *N. hollandicus*) are told apart only by their order, which is stated in the captions of Fig 4 and Fig S3 (and Table S6 links IDs to hosts).
