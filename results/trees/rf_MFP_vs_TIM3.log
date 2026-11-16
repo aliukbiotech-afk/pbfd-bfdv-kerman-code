@@ -1,0 +1,21 @@
+IQ-TREE version 3.1.4 for Linux x86 64-bit built Sep 29 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    2b6e88b2ba9e (AVX2, FMA3, 12 GB RAM)
+Command: /content/env/bin/iqtree -rf /content/pbfd/results/trees/amplicon_MFP.treefile /content/pbfd/results/trees/amplicon_TIM3.treefile --prefix /content/pbfd/results/trees/rf_MFP_vs_TIM3 -redo
+Seed:    172598 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Nov  8 17:51:26 2026
+Kernel:  AVX+FMA - 1 threads (2 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 2 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading tree(s) file /content/pbfd/results/trees/amplicon_TIM3.treefile ...
+1 tree(s) loaded (0 rooted and 1 unrooted)
+Reading tree(s) file /content/pbfd/results/trees/amplicon_MFP.treefile ...
+1 tree(s) loaded (0 rooted and 1 unrooted)
+Computing Robinson-Foulds distances between two sets of trees
+Robinson-Foulds distances printed to /content/pbfd/results/trees/rf_MFP_vs_TIM3.rfdist
+Date and Time: Sun Nov  8 17:51:26 2026

@@ -1,0 +1,10 @@
+full = {k: v for k, v in oriented.items() if 1900 <= len(v) <= 2100}
+P.write_fasta(full, RES / "alignments" / "backbone_genomes_unaligned.fasta")
+run(f"{MAFFT} --auto --thread {THREADS} --quiet {RES/'alignments'/'backbone_genomes_unaligned.fasta'} > {RES/'alignments'/'backbone_genomes_aln.fasta'}")
+run(f"{IQTREE} -s {RES/'alignments'/'backbone_genomes_aln.fasta'} -m MFP -B {UFBOOT} -T AUTO --threads-max {THREADS} --seed {SEED} --prefix {T/'backbone_fullgenome_MFP'} -redo")
+shah_lab = dict(zip(shah.accession, shah.clade))
+bb = P.midpoint(P.read_tree(T / "backbone_fullgenome_MFP.treefile"))
+bclades = P.propagate_clades(bb, shah_lab)
+bclades.to_csv(RES / "tables" / "tip_clades_backbone.csv", index=False)
+json.dump(bclades.attrs["clade_nodes"], open(RES / "tables" / "backbone_clade_nodes.json", "w"), indent=2)
+print("backbone genomes:", len(full)); print(bclades.groupby(["clade", "source"]).size().unstack(fill_value=0))

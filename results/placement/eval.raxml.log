@@ -1,0 +1,198 @@
+
+RAxML-NG v. 2.0.4 released on 28.10.2026 by The Exelixis Lab.
+Developed by: Oleksiy M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth,
+              Julia Haag, Anastasis Togkousidis, Julius Wiegert, Christoph Stelz.
+Latest version: https://codeberg.org/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) CPU @ 2.20GHz, 1 cores, 12 GB RAM
+
+RAxML-NG was called at 08-Nov-2026 18:37:49 as follows:
+
+/content/env/bin/raxml-ng --evaluate --msa /content/pbfd/results/placement/ref_amplicon_msa.fasta --tree /content/pbfd/results/placement/backbone_pruned.nwk --model GTR+G --prefix /content/pbfd/results/placement/eval --threads 2 --redo --seed 20261103
+
+Analysis options:
+  run mode: Evaluate tree likelihood
+  start tree(s): user
+  random seed: 20261103
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  logLH epsilon: general: 0.100000, brlen-triplet: 1000.000000
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  FreeRate optimization method: AUTO
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (2 threads), thread pinning: OFF
+
+WARNING: Running in REDO mode: existing checkpoints are ignored, and all result files will be overwritten!
+
+[00:00:00] Reading alignment from file: /content/pbfd/results/placement/ref_amplicon_msa.fasta
+[00:00:00] Loaded alignment with 429 taxa and 651 sites
+
+WARNING: Sequences AF311296 and AF311295 are exactly identical!
+WARNING: Sequences OR424510 and OR424511 are exactly identical!
+WARNING: Sequences OQ995086 and OR424523 are exactly identical!
+WARNING: Sequences OQ995086 and OQ995079 are exactly identical!
+WARNING: Sequences OQ995086 and OQ995084 are exactly identical!
+WARNING: Sequences OQ995086 and OR424525 are exactly identical!
+WARNING: Sequences OQ995086 and OR424522 are exactly identical!
+WARNING: Sequences OQ995086 and OQ995101 are exactly identical!
+WARNING: Sequences OQ995086 and OR424524 are exactly identical!
+WARNING: Sequences OQ995086 and OR424509 are exactly identical!
+WARNING: Sequences OQ995086 and OR424508 are exactly identical!
+WARNING: Sequences OQ995086 and OQ995080 are exactly identical!
+WARNING: Sequences OQ995077 and OQ995089 are exactly identical!
+WARNING: Sequences OR424519 and OQ995088 are exactly identical!
+WARNING: Sequences OR424519 and OQ995065 are exactly identical!
+WARNING: Sequences OQ995087 and OQ995078 are exactly identical!
+WARNING: Sequences OR424507 and OQ995082 are exactly identical!
+WARNING: Sequences OQ995104 and OQ995102 are exactly identical!
+WARNING: Sequences OR424520 and OQ995067 are exactly identical!
+WARNING: Sequences JX221017 and JX221005 are exactly identical!
+WARNING: Sequences JX221017 and JX221023 are exactly identical!
+WARNING: Sequences JX221017 and JX221021 are exactly identical!
+WARNING: Sequences JX221017 and JX221022 are exactly identical!
+WARNING: Sequences JX221029 and JX221031 are exactly identical!
+WARNING: Sequences JX221029 and JX221030 are exactly identical!
+WARNING: Sequences MK803396 and MK803394 are exactly identical!
+WARNING: Sequences MK803396 and MK803402 are exactly identical!
+WARNING: Sequences HM748936 and HM748937 are exactly identical!
+WARNING: Sequences HM748936 and HM748934 are exactly identical!
+WARNING: Sequences HM748918 and HM748938 are exactly identical!
+WARNING: Sequences HM748918 and HM748931 are exactly identical!
+WARNING: Sequences HM748918 and HM748930 are exactly identical!
+WARNING: Sequences HM748918 and HM748932 are exactly identical!
+WARNING: Sequences HM748918 and HM748933 are exactly identical!
+WARNING: Sequences KP677585 and KP677581 are exactly identical!
+WARNING: Sequences JX221028 and JX221026 are exactly identical!
+WARNING: Sequences KM887951 and KM887950 are exactly identical!
+WARNING: Sequences KM887949 and KM887948 are exactly identical!
+WARNING: Sequences KF673336 and KF673335 are exactly identical!
+WARNING: Sequences KF688550 and KF688549 are exactly identical!
+WARNING: Sequences MK803407 and MK803406 are exactly identical!
+WARNING: Sequences MK803407 and MK803405 are exactly identical!
+WARNING: Sequences KF723387 and KF723386 are exactly identical!
+WARNING: Sequences KF723387 and KF723385 are exactly identical!
+WARNING: Sequences MH190788 and MH180298 are exactly identical!
+WARNING: Sequences KY189069 and KY189068 are exactly identical!
+WARNING: Sequences KY189063 and KY189067 are exactly identical!
+WARNING: Sequences GQ396656 and GQ396653 are exactly identical!
+WARNING: Sequences GQ396656 and GU936289 are exactly identical!
+WARNING: Sequences GQ396656 and GQ396654 are exactly identical!
+WARNING: Sequences GQ396656 and GU936291 are exactly identical!
+WARNING: Sequences GQ396656 and GQ396655 are exactly identical!
+WARNING: Sequences GU936297 and GU936294 are exactly identical!
+WARNING: Sequences GU936297 and GU936290 are exactly identical!
+WARNING: Sequences GU936297 and GU936293 are exactly identical!
+WARNING: Sequences GU936297 and GU936295 are exactly identical!
+WARNING: Sequences GU936297 and GU936296 are exactly identical!
+WARNING: Sequences GU936297 and GU936288 are exactly identical!
+WARNING: Sequences KF385405 and KF499139 are exactly identical!
+WARNING: Sequences KF385405 and KF385404 are exactly identical!
+WARNING: Sequences KF385411 and KF385409 are exactly identical!
+WARNING: Sequences KY189061 and KY189058 are exactly identical!
+WARNING: Sequences KF385427 and KF385426 are exactly identical!
+WARNING: Sequences KM188465 and KM188462 are exactly identical!
+WARNING: Sequences KM188465 and KM188463 are exactly identical!
+WARNING: Sequences KM188465 and KM188461 are exactly identical!
+WARNING: Sequences KM188445 and KM188450 are exactly identical!
+WARNING: Sequences KM188445 and KM188442 are exactly identical!
+WARNING: Sequences KM188445 and KM188443 are exactly identical!
+WARNING: Sequences KM188445 and KM188441 are exactly identical!
+WARNING: Sequences KM188445 and KM188459 are exactly identical!
+WARNING: Sequences KM188445 and KM188458 are exactly identical!
+WARNING: Sequences KM188445 and KM188460 are exactly identical!
+WARNING: Sequences KM188445 and KM188448 are exactly identical!
+WARNING: Sequences KM188445 and KM188440 are exactly identical!
+WARNING: Sequences KF188689 and KF188685 are exactly identical!
+WARNING: Sequences KF188689 and KF188693 are exactly identical!
+WARNING: Sequences KF188689 and KC693651 are exactly identical!
+WARNING: Sequences KF188689 and KT168352 are exactly identical!
+WARNING: Sequences KF188689 and KF188681 are exactly identical!
+WARNING: Sequences KF188689 and KF188692 are exactly identical!
+WARNING: Sequences KF188689 and KF188687 are exactly identical!
+WARNING: Sequences KF188689 and KF561250 are exactly identical!
+WARNING: Sequences KF188689 and KT168353 are exactly identical!
+WARNING: Sequences KF188689 and KT168351 are exactly identical!
+WARNING: Sequences KT168345 and KT168349 are exactly identical!
+WARNING: Sequences KT168345 and KT168337 are exactly identical!
+WARNING: Sequences KT168345 and KT168342 are exactly identical!
+WARNING: Sequences KT168345 and KT168346 are exactly identical!
+WARNING: Sequences KT168345 and KT168340 are exactly identical!
+WARNING: Sequences KT168348 and KT168344 are exactly identical!
+WARNING: Sequences KT168348 and KT168339 are exactly identical!
+WARNING: Sequences GU015019 and GU015021 are exactly identical!
+WARNING: Sequences GU015019 and GU015014 are exactly identical!
+WARNING: Sequences GU015019 and GU015012 are exactly identical!
+WARNING: Sequences KF385425 and KF385420 are exactly identical!
+WARNING: Sequences KF385423 and KF385421 are exactly identical!
+WARNING: Sequences KF385423 and KY189059 are exactly identical!
+WARNING: Sequences OQ992780 and OL762453 are exactly identical!
+WARNING: Sequences OQ992780 and OK482701 are exactly identical!
+WARNING: Duplicate sequences found: 100
+
+NOTE: Duplicate sequences were kept for the tree search.
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /content/pbfd/results/placement/eval.raxml.reduced.phy
+
+Alignment comprises 1 partitions and 356 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 651 / 356
+Gaps: 0.01 %
+Invariant sites: 44.85 %
+
+
+NOTE: Binary MSA file created: /content/pbfd/results/placement/eval.raxml.rba
+
+[00:00:00] Loading user starting tree(s) from: /content/pbfd/results/placement/backbone_pruned.nwk
+Parallelization scheme: 1 worker(s) x 2 thread(s)
+
+Parallel reduction/worker buffer size: 1 KB  / 0 KB
+
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 178 / 2848
+[00:00:00] Data distribution: max. searches per worker: 1
+
+Evaluating 1 trees
+
+[00:00:00] Tree #1, initial LogLikelihood: -16067.365172
+
+[00:00:00 -16067.365172] Initial branch length optimization
+[00:00:00 -15180.529634] Model parameter optimization (eps = 0.100000)
+
+[00:00:02] Tree #1, final logLikelihood: -14469.975396
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.377663 (ML),  weights&rates: (0.250000,0.013628) (0.250000,0.164884) (0.250000,0.705932) (0.250000,3.115556) 
+   Base frequencies (ML): 0.274769 0.175750 0.283519 0.265962 
+   Substitution rates (ML): 0.931025 1.891570 0.611750 1.109572 4.740421 1.000000 
+
+
+Final LogLikelihood: -14469.975396
+
+AIC score: 30667.950792 / AICc score: 1525387.950792 / BIC score: 34537.383123
+Free parameters (model + branch lengths): 864
+
+WARNING: Number of free parameters (K=864) is larger than alignment size (n=651).
+         This might lead to overfitting and compromise tree inference results!
+
+
+WARNING: Best ML tree contains 207 near-zero branches!
+
+Best ML tree with collapsed near-zero branches saved to: /content/pbfd/results/placement/eval.raxml.bestTreeCollapsed
+Best ML tree saved to: /content/pbfd/results/placement/eval.raxml.bestTree
+Optimized model saved to: /content/pbfd/results/placement/eval.raxml.bestModel
+
+Execution log saved to: /content/pbfd/results/placement/eval.raxml.log
+
+Analysis started: 08-Nov-2026 18:37:49 / finished: 08-Nov-2026 18:37:52
+
+Elapsed time: 2.483 seconds
+

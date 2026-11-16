@@ -1,0 +1,47 @@
+PASS  136 birds, 43 positive  
+PASS  Wilson CI overall  0.2440-0.3985
+PASS  Fisher sex  p=1.000
+PASS  Monte Carlo species_vs_positivity  chi2=7.35 p=0.2934 vs saved 7.35/0.2897
+PASS  Monte Carlo thesis_replication_species_vs_band4  chi2=59.23 p=0.0016 vs saved 59.23/0.0018
+PASS  Monte Carlo intensity among positives  chi2=34.05 p=0.0064
+PASS  Kruskal-Wallis intensity  p=0.0716
+PASS  Firth coefficients  max diff 1.80e-09
+PASS  10 Kerman isolates, 651 nt  
+PASS  alignment rows identical to submitted FASTA  
+PASS  alignment 599 x 651  
+PASS  217-aa Rep, no stop codons (frame 1)  
+PASS  RCR II/III, Walker A and motif C conserved  
+PASS  Kerman pairwise identity 94.9-99.8%  94.93-99.85, mean 96.87
+PASS  Kerman segregating sites / haplotypes  S=60, H=10
+PASS  Kerman nucleotide diversity  pi=0.0313 vs 0.0313
+PASS  variable sites at 3rd codon position = 46  46/60
+PASS  EPA-ng best clade re-derived from jplace (edge majority label)  Pb22:unassigned Pb64:GI-d Pb23:GI-f Pb24:GI-c Pb28:GI-c Pb34:GI-c S7:GI-c Pb25:GI-c Pb30:GI-c S27:GI-c
+PASS  all Kerman isolates in genotype GI  
+PASS  HyPhy outputs cover 217 codons  
+PASS  FEL: 65 negative, 0 positive sites (p<=0.1)  neg=65 pos=0
+PASS  MEME: no site at p<=0.1  
+PASS  GARD: no breakpoints  
+PASS  SLAC global dN/dS = 0.14  
+PASS  pipeline stats re-run reproduces chi2 and p (20k iterations)  
+PASS  notebook has 21 code cells, headless 21 scripts  21 / 21
+PASS  tool versions recorded  
+PASS  RUN_SUMMARY consistent  
+PASS  reference host/country table equals raw GenBank records  589 records, 0 mismatches
+PASS  manuscript states: 43 of 136 birds (31.6%)  
+PASS  manuscript states: Wilson CI 24.4-39.8  
+PASS  manuscript states: Fisher p  
+PASS  manuscript states: Monte Carlo p species 0.29  
+PASS  manuscript states: thesis replication chi2 59.2  
+PASS  manuscript states: intensity chi2 34.05  
+PASS  manuscript states: 599 x 651 alignment  
+PASS  manuscript states: dN/dS 0.14  
+PASS  manuscript states: FEL 65 of 217  
+PASS  manuscript states: 429 genomes  
+PASS  manuscript states: haplotype Hd 0.996  
+PASS  manuscript states: RF 308  
+PASS  manuscript identity Pb24-KF723390 = 98.9  table 98.92
+PASS  manuscript identity Pb23-MK387075 = 99.1  table 99.08
+PASS  manuscript identity Pb64-KT764927 = 98.2  table 98.16
+PASS  manuscript identity Pb22-OP039999 = 97.8  table 97.85
+
+45/45 checks passed

@@ -1,0 +1,19 @@
+mafft: ['v7.526 (2024/Apr/26)']
+iqtree: ['IQ-TREE version 3.1.4 for Linux x86 64-bit built Sep 29 2026', 'Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren', 'Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,']
+raxml-ng: ['RAxML-NG v. 2.0.4 released on 28.10.2026 by The Exelixis Lab.', 'Developed by: Oleksiy M. Kozlov and Alexandros Stamatakis.', 'Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth,']
+epa-ng: ['EPA-ng v0.3.8']
+hyphy: ['HYPHY 2.5.103(MP) for Linux on x86_64 x86 SSE4 SIMD zlib (v1.3.2)']
+python: 3.13.18
+biopython: 1.88
+numpy: 2.4.6
+pandas: 2.2.3
+scipy: 1.16.3
+statsmodels: 0.15.0
+matplotlib: 3.10.0
+networkx: 3.7
+seed: 20261103
+FAST: False
+ufboot: 1000
+alrt: 1000
+permutations: 1000
+monte_carlo: 100000

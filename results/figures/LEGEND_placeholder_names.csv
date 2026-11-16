@@ -1,0 +1,8 @@
+group_id,host_excel,suggested_species,confidence,FINAL_SPECIES
+SP01,Pyrrhura molinae,Pyrrhura molinae,high,Pyrrhura molinae
+SP02,Green-cheeked parakeet(Pyrrhura molinae),Myiopsitta monachus,high,Myiopsitta monachus
+SP03,Lovebird(Agapornis spp.),Forpus spp. OR Agapornis spp. [UNRESOLVED],medium (favours Forpus),Agapornis spp.
+SP04,African grey parrot(Psittacus erithacus),Psittacus erithacus,high,Psittacus erithacus
+SP05,Cockatiel(Nymphicus hollandicus),Nymphicus hollandicus,high,Nymphicus hollandicus
+SP06,Rose-ringed parakeet(Psittacula krameri),Psittacula krameri,high,Psittacula krameri
+SP07,Other spp.,"Other spp. (Pionites/Pionus?, P. eupatria, Cacatua, Amazona, A. solstitialis)",low,Other spp.

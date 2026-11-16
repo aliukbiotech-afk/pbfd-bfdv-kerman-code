@@ -1,0 +1,21 @@
+INFO Selected: Output dir: /content/pbfd/results/placement/
+INFO Selected: Query file: /content/pbfd/results/placement/query.fasta
+INFO Selected: Tree file: /content/pbfd/results/placement/eval.raxml.bestTree
+INFO Selected: Reference MSA: /content/pbfd/results/placement/ref_amplicon_msa.fasta
+INFO Selected: Automatic switching of use of per rate scalers
+INFO Selected: Preserving the root of the input tree
+INFO Selected: Specified model file: /content/pbfd/results/placement/eval.raxml.bestModel
+INFO Selected: Using threads: 2
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.3.8)
+INFO Using model parameters:
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.377663 (user),  weights&rates: (0.25,0.0136282) (0.25,0.164883) (0.25,0.705932) (0.25,3.11556) 
+        Base frequencies (user): 0.274769 0.17575 0.283519 0.265962 
+        Substitution rates (user): 0.931025 1.89157 0.61175 1.10957 4.74042 1
+INFO Output file: /content/pbfd/results/placement/epa_result.jplace
+INFO 10 Sequences done!
+INFO Time spent placing: 0s
+INFO Elapsed Time: 0s

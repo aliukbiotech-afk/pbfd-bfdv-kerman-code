@@ -1,0 +1,590 @@
+accession,version,length,definition,host,country,collection_date,year,isolate,complete_genome,submit_year,country_simple,year_or_submit
+KX500099,KX500099.1,2012,"Beak and feather disease virus isolate CS14-KoB2-QLD, complete genome",Dacelo novaeguineae,Australia,2014,2014.0,CS14-KoB2-QLD,True,2017,Australia,2014.0
+KF499122,KF499122.1,717,"Beak and feather disease virus isolate 13-1780-055-QB2-RTBC-WA truncated putative replication-associated protein (Rep) gene, partial cds",Calyptorhynchus banksii,Australia,2013,2013.0,13-1780-055-QB2-RTBC-WA,False,2014,Australia,2013.0
+KF499124,KF499124.1,1213,"Beak and feather disease virus isolate 13-1780-055-QB4-RTBC-WA putative replication-associated protein (Rep) gene, partial cds",Calyptorhynchus banksii,Australia,2013,2013.0,13-1780-055-QB4-RTBC-WA,False,2014,Australia,2013.0
+KF499125,KF499125.1,1213,"Beak and feather disease virus isolate 13-1780-055-QB5-RTBC-WA putative replication-associated protein (Rep) gene, partial cds",Calyptorhynchus banksii,Australia,2013,2013.0,13-1780-055-QB5-RTBC-WA,False,2014,Australia,2013.0
+KF385400,KF385400.1,1993,"Beak and feather disease virus isolate BFDV_AUS_RTBC_13_1780_055, complete genome",Calyptorhynchus banksii,Australia,2013,2013.0,BFDV_AUS_RTBC_13_1780_055,True,2014,Australia,2013.0
+KF499123,KF499123.1,717,"Beak and feather disease virus isolate 13-1780-055-QB3-RTBC-WA putative replication-associated protein (Rep) gene, partial cds",Calyptorhynchus banksii,Australia,2013,2013.0,13-1780-055-QB3-RTBC-WA,False,2014,Australia,2013.0
+KX500101,KX500101.1,1996,"Beak and feather disease virus isolate CS15-3551-QLD, complete genome",Haliaeetus leucogaster,Australia,2015,2015.0,CS15-3551-QLD,True,2017,Australia,2015.0
+KX500104,KX500104.1,1995,"Beak and feather disease virus isolate CS15-3775-NSW, complete genome",Corvus coronoides,Australia,2015,2015.0,CS15-3775-NSW,True,2017,Australia,2015.0
+MK803401,MK803401.1,1991,"Beak and feather disease virus isolate BVDV-S20, complete genome",Cacatua alba (cockatoo),Saudi Arabia,12-Jun-2017,2017.0,BVDV-S20,True,2019,Saudi Arabia,2017.0
+JX221004,JX221004.1,1992,"Beak and feather disease virus isolate BFDV-Q_PL-1067_2010, complete genome",Melopsittacus undulatus,Poland,24-Apr-2010,2010.0,BFDV-Q_PL-1067_2010,True,2013,Poland,2010.0
+JX221009,JX221009.1,1993,"Beak and feather disease virus isolate BFDV-Q_PL-1240_2011, complete genome",Melopsittacus undulatus,Poland,24-Nov-2011,2011.0,BFDV-Q_PL-1240_2011,True,2013,Poland,2011.0
+JX221043,JX221043.1,1992,"Beak and feather disease virus isolate BFDV-Q_PL-902_2009, complete genome",Platycercus elegans,Poland,23-Jun-2009,2009.0,BFDV-Q_PL-902_2009,True,2013,Poland,2009.0
+EU810208,EU810208.1,1992,"Beak and feather disease virus isolate PT05, complete genome",Psittacus erithacus,Portugal,2005,2005.0,PT05,True,2010,Portugal,2005.0
+DQ397817,DQ397817.1,867,"Beak and feather disease virus isolate AFG5-ZA replication-associated protein (V1) gene, complete cds",,,,,AFG5-ZA,False,2006,,2006.0
+KM188440,KM188440.1,1990,"Beak and feather disease virus isolate BFDV_ZA_FH01_2010, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",22-Apr-2010,2010.0,BFDV_ZA_FH01_2010,True,2014,South Africa,2010.0
+KM188441,KM188441.1,1993,"Beak and feather disease virus isolate BFDV_ZA_FH05_2010, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",25-Apr-2010,2010.0,BFDV_ZA_FH05_2010,True,2014,South Africa,2010.0
+KM188442,KM188442.1,1992,"Beak and feather disease virus isolate BFDV_ZA_FH07_2010, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",25-Apr-2010,2010.0,BFDV_ZA_FH07_2010,True,2014,South Africa,2010.0
+KM188443,KM188443.1,1992,"Beak and feather disease virus isolate BFDV_ZA_FH14_2010, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",02-Jun-2010,2010.0,BFDV_ZA_FH14_2010,True,2014,South Africa,2010.0
+KM188445,KM188445.1,1991,"Beak and feather disease virus isolate BFDV_ZA_FH16_2010, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",05-Jun-2010,2010.0,BFDV_ZA_FH16_2010,True,2014,South Africa,2010.0
+KM188448,KM188448.1,1989,"Beak and feather disease virus isolate BFDV_ZA_FH23_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",21-May-2011,2011.0,BFDV_ZA_FH23_2011,True,2014,South Africa,2011.0
+KM188450,KM188450.1,1991,"Beak and feather disease virus isolate BFDV_ZA_FH27_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",25-May-2011,2011.0,BFDV_ZA_FH27_2011,True,2014,South Africa,2011.0
+KM188458,KM188458.1,1990,"Beak and feather disease virus isolate BFDV_ZA_KWT01_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: King William's Town, Eastern Cape Province",25-Mar-2011,2011.0,BFDV_ZA_KWT01_2011,True,2014,South Africa,2011.0
+KM188459,KM188459.1,1991,"Beak and feather disease virus isolate BFDV_ZA_KWT02_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: King William's Town, Eastern Cape Province",29-Mar-2011,2011.0,BFDV_ZA_KWT02_2011,True,2014,South Africa,2011.0
+KM188460,KM188460.1,1990,"Beak and feather disease virus isolate BFDV_ZA_KWT03_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: King William's Town, Eastern Cape Province",30-Mar-2011,2011.0,BFDV_ZA_KWT03_2011,True,2014,South Africa,2011.0
+KM188449,KM188449.1,1992,"Beak and feather disease virus isolate BFDV_ZA_FH24_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",23-May-2011,2011.0,BFDV_ZA_FH24_2011,True,2014,South Africa,2011.0
+KM188464,KM188464.1,1991,"Beak and feather disease virus isolate BFDV_ZA_KWT09_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: King William's Town, Eastern Cape Province",07-Apr-2011,2011.0,BFDV_ZA_KWT09_2011,True,2014,South Africa,2011.0
+KM188444,KM188444.1,1992,"Beak and feather disease virus isolate BFDV_ZA_FH15_2010, complete genome",Poicephalus robustus (Cape parrot),"South Africa: Alice, Eastern Cape Province",05-Jun-2010,2010.0,BFDV_ZA_FH15_2010,True,2014,South Africa,2010.0
+KM188461,KM188461.1,1991,"Beak and feather disease virus isolate BFDV_ZA_KWT04_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: King William's Town, Eastern Cape Province",30-Mar-2011,2011.0,BFDV_ZA_KWT04_2011,True,2014,South Africa,2011.0
+KM188462,KM188462.1,1991,"Beak and feather disease virus isolate BFDV_ZA_KWT06_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: King William's Town, Eastern Cape Province",30-Mar-2011,2011.0,BFDV_ZA_KWT06_2011,True,2014,South Africa,2011.0
+KM188463,KM188463.1,1988,"Beak and feather disease virus isolate BFDV_ZA_KWT07_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: King William's Town, Eastern Cape Province",04-Apr-2011,2011.0,BFDV_ZA_KWT07_2011,True,2014,South Africa,2011.0
+KM188465,KM188465.1,1992,"Beak and feather disease virus isolate BFDV_ZA_STUT01_2011, complete genome",Poicephalus robustus (Cape parrot),South Africa: Stutterheim,28-Apr-2011,2011.0,BFDV_ZA_STUT01_2011,True,2014,South Africa,2011.0
+OP185938,OP185938.1,690,"Beak and feather disease virus isolate 70 replicase-associated protein (ORF1) gene, partial cds",Columba livia,Namibia,2022,2022.0,70,False,2023,Namibia,2022.0
+KM452741,KM452741.1,1990,"Beak and feather disease virus isolate BFDV_NZ_DP0369_2012, complete genome",Cyanoramphus novaezelandiae,New Zealand,2012,2012.0,BFDV_NZ_DP0369_2012,True,2015,New Zealand,2012.0
+KM452744,KM452744.1,1991,"Beak and feather disease virus isolate BFDV_NZ_D185808_2009, complete genome",Cyanoramphus novaezelandiae,New Zealand,2009,2009.0,BFDV_NZ_D185808_2009,True,2015,New Zealand,2009.0
+KM452742,KM452742.1,1991,"Beak and feather disease virus isolate BFDV_NZ_D174814-2010, complete genome",Cyanoramphus novaezelandiae,New Zealand,2010,2010.0,BFDV_NZ_D174814-2010,True,2015,New Zealand,2010.0
+KM452743,KM452743.1,1991,"Beak and feather disease virus isolate BFDV_NZ_D174812-2010, complete genome",Cyanoramphus novaezelandiae,New Zealand,2010,2010.0,BFDV_NZ_D174812-2010,True,2015,New Zealand,2010.0
+KM452735,KM452735.1,1987,"Beak and feather disease virus isolate BFDV_NZ_201822_2013, complete genome",Cyanoramphus novaezelandiae,New Zealand,2013,2013.0,BFDV_NZ_201822_2013,True,2015,New Zealand,2013.0
+KM452736,KM452736.1,1987,"Beak and feather disease virus isolate BFDV_NZ_201845_2013, complete genome",Cyanoramphus novaezelandiae,New Zealand,2013,2013.0,BFDV_NZ_201845_2013,True,2015,New Zealand,2013.0
+JQ782199,JQ782199.1,1986,"Beak and feather disease virus isolate D134146, complete genome",Platycercus eximius,New Zealand,2009,2009.0,D134146,True,2012,New Zealand,2009.0
+JF519619,JF519619.1,1987,"Beak and feather disease virus isolate BFDV-NZ_R18_2010, complete genome",Platycercus eximius,New Zealand,2010,2010.0,BFDV-NZ_R18_2010,True,2012,New Zealand,2010.0
+JQ782196,JQ782196.1,1987,"Beak and feather disease virus isolate D134138, complete genome",Platycercus eximius,New Zealand,2009,2009.0,D134138,True,2012,New Zealand,2009.0
+KF467252,KF467252.1,1988,"Beak and feather disease virus isolate BFDV-NZ_OR3_2012, complete genome",Platycercus eximius,New Zealand,Feb-2012,2012.0,BFDV-NZ_OR3_2012,True,2015,New Zealand,2012.0
+KM452734,KM452734.1,1988,"Beak and feather disease virus isolate BFDV_NZ_OBS01_2013, complete genome",Cyanoramphus novaezelandiae,New Zealand,2013,2013.0,BFDV_NZ_OBS01_2013,True,2015,New Zealand,2013.0
+KF673337,KF673337.1,2002,"Beak and feather disease virus strain BFDV_ID_RL_05_1174, complete genome",Eos bornea,Indonesia,2005,2005.0,BFDV_ID_RL_05_1174,True,2013,Indonesia,2005.0
+KF768548,KF768548.1,1996,"Beak and feather disease virus isolate BFDV_NC13_27, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2013,2013.0,BFDV_NC13_27,True,2014,New Caledonia,2013.0
+KF768545,KF768545.1,1996,"Beak and feather disease virus isolate BFDV_NC13_35, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2013,2013.0,BFDV_NC13_35,True,2014,New Caledonia,2013.0
+JX049211,JX049211.1,1996,"Beak and feather disease virus isolate 2NC44B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,2NC44B,True,2012,New Caledonia,2011.0
+KF768550,KF768550.1,1997,"Beak and feather disease virus isolate BFDV_DL02B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2012,2012.0,BFDV_DL02B,True,2014,New Caledonia,2012.0
+JX049200,JX049200.1,1997,"Beak and feather disease virus isolate NCL1, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,NCL1,True,2012,New Caledonia,2011.0
+JX049210,JX049210.1,1996,"Beak and feather disease virus isolate 2NC43B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,2NC43B,True,2012,New Caledonia,2011.0
+KF768551,KF768551.1,1997,"Beak and feather disease virus isolate BFDV_DL03B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2012,2012.0,BFDV_DL03B,True,2014,New Caledonia,2012.0
+JX049209,JX049209.1,1996,"Beak and feather disease virus isolate 2NC42B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,2NC42B,True,2012,New Caledonia,2011.0
+JX049198,JX049198.1,1997,"Beak and feather disease virus isolate NC109, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,NC109,True,2012,New Caledonia,2011.0
+JX049196,JX049196.1,1997,"Beak and feather disease virus isolate NC107, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,NC107,True,2012,New Caledonia,2011.0
+JX049197,JX049197.1,1997,"Beak and feather disease virus isolate NC108, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,NC108,True,2012,New Caledonia,2011.0
+JX049208,JX049208.1,1997,"Beak and feather disease virus isolate 2NC41B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,2NC41B,True,2012,New Caledonia,2011.0
+KF768549,KF768549.1,1996,"Beak and feather disease virus isolate BFDV_NC13_20, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2013,2013.0,BFDV_NC13_20,True,2014,New Caledonia,2013.0
+KF768547,KF768547.1,1996,"Beak and feather disease virus isolate BFDV_NC13_30, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2013,2013.0,BFDV_NC13_30,True,2014,New Caledonia,2013.0
+KF768553,KF768553.1,1997,"Beak and feather disease virus isolate BFDV_DL11B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2012,2012.0,BFDV_DL11B,True,2014,New Caledonia,2012.0
+KF768552,KF768552.1,1997,"Beak and feather disease virus isolate BFDV_DL10B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2012,2012.0,BFDV_DL10B,True,2014,New Caledonia,2012.0
+JX049204,JX049204.1,1997,"Beak and feather disease virus isolate 2NC37F, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,2NC37F,True,2012,New Caledonia,2011.0
+JX049206,JX049206.1,1997,"Beak and feather disease virus isolate 2NC39B, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,2NC39B,True,2012,New Caledonia,2011.0
+JX049205,JX049205.1,1996,"Beak and feather disease virus isolate 2NC38F, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,2NC38F,True,2012,New Caledonia,2011.0
+JX049203,JX049203.1,1997,"Beak and feather disease virus isolate NCL9, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,NCL9,True,2012,New Caledonia,2011.0
+JX049201,JX049201.1,1997,"Beak and feather disease virus isolate NCL3, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,NCL3,True,2012,New Caledonia,2011.0
+JX049202,JX049202.1,1997,"Beak and feather disease virus isolate NCL7, complete genome",Trichoglossus haematodus deplanchii,New Caledonia,2011,2011.0,NCL7,True,2012,New Caledonia,2011.0
+JQ782200,JQ782200.1,1991,"Beak and feather disease virus isolate SCPA2, complete genome",Platycercus eximius,New Zealand,2009,2009.0,SCPA2,True,2012,New Zealand,2009.0
+JX221007,JX221007.1,1997,"Beak and feather disease virus isolate BFDV-J_PL-1232_2011, complete genome",Psittacula krameri,Poland,07-Jun-2011,2011.0,BFDV-J_PL-1232_2011,True,2013,Poland,2011.0
+MH188863,MH188863.1,1995,"Beak and feather disease virus strain FZ, complete genome",parrot,China,09-Mar-2017,2017.0,FZ,True,2019,China,2017.0
+AY450434,AY450434.1,1988,"Beak and feather disease virus isolate WBC1-ZA, complete genome",Pionites leucogaster,,,,WBC1-ZA,True,2004,,2004.0
+AY450435,AY450435.1,1988,"Beak and feather disease virus isolate AFG4-ZA, complete genome",Psittacus erithacus,,,,AFG4-ZA,True,2004,,2004.0
+AY450436,AY450436.1,1988,"Beak and feather disease virus isolate UC1-ZA, complete genome",Cacatua alba,,,,UC1-ZA,True,2004,,2004.0
+OQ995062,OQ995062.1,2020,"Beak and feather disease virus isolate LBB_53, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_53,True,2024,USA,2022.0
+OQ995103,OQ995103.1,2027,"Beak and feather disease virus isolate LBF_69, complete genome",Agapornis roseicollis,USA: Arizona,13-Jun-2022,2022.0,LBF_69,True,2024,USA,2022.0
+OQ995081,OQ995081.1,2018,"Beak and feather disease virus isolate LBF_27, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_27,True,2024,USA,2022.0
+OQ995075,OQ995075.1,2020,"Beak and feather disease virus isolate LBF_9, complete genome",Agapornis roseicollis,USA: Arizona,26-Feb-2022,2022.0,LBF_9,True,2024,USA,2022.0
+OQ995071,OQ995071.1,2022,"Beak and feather disease virus isolate LBB_88, complete genome",Agapornis roseicollis,USA: Arizona,13-Jun-2022,2022.0,LBB_88,True,2024,USA,2022.0
+OQ995068,OQ995068.1,2017,"Beak and feather disease virus isolate LBB_66, complete genome",Agapornis roseicollis,USA: Arizona,08-Jun-2022,2022.0,LBB_66,True,2024,USA,2022.0
+OQ995061,OQ995061.1,2016,"Beak and feather disease virus isolate LBB_52, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_52,True,2024,USA,2022.0
+OQ995058,OQ995058.1,2019,"Beak and feather disease virus isolate LBB_37, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_37,True,2024,USA,2022.0
+OQ995059,OQ995059.1,2015,"Beak and feather disease virus isolate LBB_40, complete genome",Agapornis roseicollis,USA: Arizona,03-Jun-2022,2022.0,LBB_40,True,2024,USA,2022.0
+OQ995069,OQ995069.1,2021,"Beak and feather disease virus isolate LBB_67, complete genome",Agapornis roseicollis,USA: Arizona,08-Jun-2022,2022.0,LBB_67,True,2024,USA,2022.0
+OQ995070,OQ995070.1,2019,"Beak and feather disease virus isolate LBB_85, complete genome",Agapornis roseicollis,USA: Arizona,13-Jun-2022,2022.0,LBB_85,True,2024,USA,2022.0
+OQ995060,OQ995060.1,2019,"Beak and feather disease virus isolate LBB_51, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_51,True,2024,USA,2022.0
+OQ995066,OQ995066.1,2016,"Beak and feather disease virus isolate LBB_61, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_61,True,2024,USA,2022.0
+OQ995098,OQ995098.1,2018,"Beak and feather disease virus isolate LBF_61, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_61,True,2024,USA,2022.0
+OQ995063,OQ995063.1,2015,"Beak and feather disease virus isolate LBB_56, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_56,True,2024,USA,2022.0
+OQ995099,OQ995099.1,2018,"Beak and feather disease virus isolate LBF_62, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_62,True,2024,USA,2022.0
+OQ995065,OQ995065.1,2018,"Beak and feather disease virus isolate LBB_58, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_58,True,2024,USA,2022.0
+OQ995088,OQ995088.1,2019,"Beak and feather disease virus isolate LBF_39, complete genome",Agapornis roseicollis,USA: Arizona,03-Jun-2022,2022.0,LBF_39,True,2024,USA,2022.0
+OR424519,OR424519.1,2016,"Beak and feather disease virus isolate LBB_46, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_46,True,2025,USA,2022.0
+OQ995097,OQ995097.1,2016,"Beak and feather disease virus isolate LBF_60, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_60,True,2024,USA,2022.0
+OR424531,OR424531.1,2018,"Beak and feather disease virus isolate LBF_82, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_82,True,2025,USA,2022.0
+OR424517,OR424517.1,2019,"Beak and feather disease virus isolate LBB_44, complete genome",Agapornis roseicollis,USA: Arizona,09-Jun-2022,2022.0,LBB_44,True,2025,USA,2022.0
+OR424528,OR424528.1,2014,"Beak and feather disease virus isolate LBF_33, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_33,True,2025,USA,2022.0
+OQ995091,OQ995091.1,2017,"Beak and feather disease virus isolate LBF_46, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_46,True,2024,USA,2022.0
+OQ995090,OQ995090.1,2017,"Beak and feather disease virus isolate LBF_41, complete genome",Agapornis roseicollis,USA: Arizona,09-Jun-2022,2022.0,LBF_41,True,2024,USA,2022.0
+OQ995085,OQ995085.1,2019,"Beak and feather disease virus isolate LBF_36, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_36,True,2024,USA,2022.0
+OQ995083,OQ995083.1,2017,"Beak and feather disease virus isolate LBF_31, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_31,True,2024,USA,2022.0
+OQ995076,OQ995076.1,2019,"Beak and feather disease virus isolate LBF_12, complete genome",Agapornis roseicollis,USA: Arizona,22-Feb-2022,2022.0,LBF_12,True,2024,USA,2022.0
+OR424516,OR424516.1,2018,"Beak and feather disease virus isolate LBB_43, complete genome",Agapornis roseicollis,USA: Arizona,09-Jun-2022,2022.0,LBB_43,True,2025,USA,2022.0
+OR424512,OR424512.1,2019,"Beak and feather disease virus isolate LBB_34, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_34,True,2025,USA,2022.0
+OR424521,OR424521.1,2017,"Beak and feather disease virus isolate LBB_48, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_48,True,2025,USA,2022.0
+OQ995074,OQ995074.1,2019,"Beak and feather disease virus isolate LBF_8, complete genome",Agapornis roseicollis,USA: Arizona,25-Feb-2022,2022.0,LBF_8,True,2024,USA,2022.0
+OQ995077,OQ995077.1,2018,"Beak and feather disease virus isolate LBF_14, complete genome",Agapornis roseicollis,USA: Arizona,22-Feb-2022,2022.0,LBF_14,True,2024,USA,2022.0
+OQ995089,OQ995089.1,2017,"Beak and feather disease virus isolate LBF_40, complete genome",Agapornis roseicollis,USA: Arizona,03-Jun-2022,2022.0,LBF_40,True,2024,USA,2022.0
+OR424518,OR424518.1,2019,"Beak and feather disease virus isolate LBB_45, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_45,True,2025,USA,2022.0
+OR424515,OR424515.1,2018,"Beak and feather disease virus isolate LBB_42, complete genome",Agapornis roseicollis,USA: Arizona,09-Jun-2022,2022.0,LBB_42,True,2025,USA,2022.0
+OR424514,OR424514.1,2029,"Beak and feather disease virus isolate LBB_41, complete genome",Agapornis roseicollis,USA: Arizona,09-Jun-2022,2022.0,LBB_41,True,2025,USA,2022.0
+OR424510,OR424510.1,2018,"Beak and feather disease virus isolate LBB_30, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_30,True,2025,USA,2022.0
+OR424511,OR424511.1,2019,"Beak and feather disease virus isolate LBB_33, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_33,True,2025,USA,2022.0
+OQ995079,OQ995079.1,2018,"Beak and feather disease virus isolate LBF_20, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_20,True,2024,USA,2022.0
+OQ995080,OQ995080.1,2017,"Beak and feather disease virus isolate LBF_21, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_21,True,2024,USA,2022.0
+OQ995084,OQ995084.1,2018,"Beak and feather disease virus isolate LBF_32, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_32,True,2024,USA,2022.0
+OQ995086,OQ995086.1,2018,"Beak and feather disease virus isolate LBF_37, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_37,True,2024,USA,2022.0
+OQ995101,OQ995101.1,2016,"Beak and feather disease virus isolate LBF_67, complete genome",Agapornis roseicollis,USA: Arizona,08-Jun-2022,2022.0,LBF_67,True,2024,USA,2022.0
+OR424508,OR424508.1,2018,"Beak and feather disease virus isolate LBB_28, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_28,True,2025,USA,2022.0
+OR424509,OR424509.1,2017,"Beak and feather disease virus isolate LBB_29, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_29,True,2025,USA,2022.0
+OR424522,OR424522.1,2020,"Beak and feather disease virus isolate LBB_54, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_54,True,2025,USA,2022.0
+OR424523,OR424523.1,2018,"Beak and feather disease virus isolate LBB_55, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_55,True,2025,USA,2022.0
+OR424524,OR424524.1,2016,"Beak and feather disease virus isolate LBB_75, complete genome",Agapornis roseicollis,USA: Arizona,13-Jun-2022,2022.0,LBB_75,True,2025,USA,2022.0
+OR424525,OR424525.1,2018,"Beak and feather disease virus isolate LBB_87, complete genome",Agapornis roseicollis,USA: Arizona,13-Jun-2022,2022.0,LBB_87,True,2025,USA,2022.0
+OQ995064,OQ995064.1,2016,"Beak and feather disease virus isolate LBB_57, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_57,True,2024,USA,2022.0
+OQ995078,OQ995078.1,2017,"Beak and feather disease virus isolate LBF_16, complete genome",Agapornis roseicollis,USA: Arizona,22-Feb-2022,2022.0,LBF_16,True,2024,USA,2022.0
+OQ995087,OQ995087.1,2016,"Beak and feather disease virus isolate LBF_38, complete genome",Agapornis roseicollis,USA: Arizona,03-Jun-2022,2022.0,LBF_38,True,2024,USA,2022.0
+DQ016391,DQ016391.1,717,"Beak and feather disease virus isolate 4-SP-TAS replicase-associated protein (Rep) gene, partial cds",Lathamus discolour,Australia,,,4-SP-TAS,False,2016,Australia,2016.0
+KF673335,KF673335.1,1984,"Beak and feather disease virus strain BFDV_AUS_SP_04_233A, complete genome",Lathamus discolor,Australia,2004,2004.0,BFDV_AUS_SP_04_233A,True,2013,Australia,2004.0
+KF673336,KF673336.1,1984,"Beak and feather disease virus strain BFDV_AUS_SP_04_233B, complete genome",Lathamus discolor,Australia,2004,2004.0,BFDV_AUS_SP_04_233B,True,2013,Australia,2004.0
+KF385408,KF385408.1,1996,"Beak and feather disease virus isolate BFDV_AUS_GBC_06_939, complete genome",Calyptorhynchus lathami,Australia,2006,2006.0,BFDV_AUS_GBC_06_939,True,2014,Australia,2006.0
+JQ782198,JQ782198.1,1984,"Beak and feather disease virus isolate D134144, complete genome",Platycercus eximius,New Zealand,2009,2009.0,D134144,True,2012,New Zealand,2009.0
+KF467251,KF467251.1,1988,"Beak and feather disease virus isolate BFDV-NZ_OR2_2012, complete genome",Platycercus eximius,New Zealand,Feb-2012,2012.0,BFDV-NZ_OR2_2012,True,2015,New Zealand,2012.0
+GU936287,GU936287.1,1988,"Beak and feather disease virus isolate BFDV_NZ_PE_B51_2008, complete genome",Platycercus eximius,New Zealand,2008,2008.0,BFDV_NZ_PE_B51_2008,True,2012,New Zealand,2008.0
+JF519618,JF519618.1,1987,"Beak and feather disease virus isolate BFDV-NZ_L53_2010, complete genome",Cyanoramphus novaezelandiae,New Zealand,2010,2010.0,BFDV-NZ_L53_2010,True,2012,New Zealand,2010.0
+GU936292,GU936292.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B162a_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B162a_2008,True,2012,New Zealand,2008.0
+GU936288,GU936288.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B195_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B195_2008,True,2012,New Zealand,2008.0
+GU936290,GU936290.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B326_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B326_2008,True,2012,New Zealand,2008.0
+GU936293,GU936293.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B133_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B133_2008,True,2012,New Zealand,2008.0
+GU936294,GU936294.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B125_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B125_2008,True,2012,New Zealand,2008.0
+GU936295,GU936295.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B192_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B192_2008,True,2012,New Zealand,2008.0
+GU936296,GU936296.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B127_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B127_2008,True,2012,New Zealand,2008.0
+GU936297,GU936297.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B162b_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B162b_2008,True,2012,New Zealand,2008.0
+GQ396652,GQ396652.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B84b_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B84b_2008,True,2010,New Zealand,2008.0
+GQ396653,GQ396653.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B77_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B77_2008,True,2010,New Zealand,2008.0
+GQ396654,GQ396654.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B80_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B80_2008,True,2010,New Zealand,2008.0
+GQ396655,GQ396655.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B78_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B78_2008,True,2010,New Zealand,2008.0
+GQ396656,GQ396656.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B81_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B81_2008,True,2010,New Zealand,2008.0
+GU936289,GU936289.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B157_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B157_2008,True,2012,New Zealand,2008.0
+GU936291,GU936291.1,1988,"Beak and feather disease virus isolate BFDV_NZ_CN_B79_2008, complete genome",Cyanoramphus novaezelandiae,New Zealand,2008,2008.0,BFDV_NZ_CN_B79_2008,True,2012,New Zealand,2008.0
+KF467253,KF467253.1,1988,"Beak and feather disease virus isolate BFDV-NZ_OR4_2012, complete genome",Platycercus eximius,New Zealand,Feb-2012,2012.0,BFDV-NZ_OR4_2012,True,2015,New Zealand,2012.0
+KF467254,KF467254.1,1988,"Beak and feather disease virus isolate BFDV-NZ_OR5_2012, complete genome",Platycercus eximius,New Zealand,Feb-2012,2012.0,BFDV-NZ_OR5_2012,True,2015,New Zealand,2012.0
+KM452737,KM452737.1,1988,"Beak and feather disease virus isolate BFDV_NZ_201706_2011, complete genome",Cyanoramphus novaezelandiae,New Zealand,2011,2011.0,BFDV_NZ_201706_2011,True,2015,New Zealand,2011.0
+KM452738,KM452738.1,1988,"Beak and feather disease virus isolate BFDV_NZ_201704_2011, complete genome",Cyanoramphus novaezelandiae,New Zealand,2011,2011.0,BFDV_NZ_201704_2011,True,2015,New Zealand,2011.0
+KJ866054,KJ866054.1,1995,"Beak and feather disease virus isolate BFDV_AUS_MRP_14_1195_001, complete genome",Barnardius zonarius barnardi,Australia,2014,2014.0,BFDV_AUS_MRP_14_1195_001,True,2014,Australia,2014.0
+OR122675,OR122675.1,1996,"Beak and feather disease virus isolate BFDV_7106_Bursa_VIC_AUS_2019, complete genome",Platycercus elegans,Australia:Victoria,16-May-2019,2019.0,BFDV_7106_Bursa_VIC_AUS_2019,True,2023,Australia,2019.0
+KY189074,KY189074.1,1996,"Beak and feather disease virus isolate KAT-140471-CRL-VIC-2014, complete genome",Platycercus elegans,Australia,2014,2014.0,KAT-140471-CRL-VIC-2014,True,2018,Australia,2014.0
+KY189062,KY189062.1,1993,"Beak and feather disease virus isolate KAT-ERL-150116-VIC-2015, complete genome",Platycercus eximius,Australia,2015,2015.0,KAT-ERL-150116-VIC-2015,True,2018,Australia,2015.0
+KY189066,KY189066.1,1997,"Beak and feather disease virus isolate KAT-CRL-150071-VIC-2015, complete genome",Platycercus elegans,Australia,2015,2015.0,KAT-CRL-150071-VIC-2015,True,2018,Australia,2015.0
+KY189063,KY189063.1,1997,"Beak and feather disease virus isolate KAT-ERL-150115-VIC-2015, complete genome",Platycercus eximius,Australia,2015,2015.0,KAT-ERL-150115-VIC-2015,True,2018,Australia,2015.0
+KY189067,KY189067.1,1997,"Beak and feather disease virus isolate KAT-CRL-141173-VIC-2014, complete genome",Platycercus elegans,Australia,2014,2014.0,KAT-CRL-141173-VIC-2014,True,2018,Australia,2014.0
+KY189065,KY189065.1,1997,"Beak and feather disease virus isolate KAT-CRL-150087-VIC-2015, complete genome",Platycercus elegans,Australia,2015,2015.0,KAT-CRL-150087-VIC-2015,True,2018,Australia,2015.0
+KY189064,KY189064.1,1997,"Beak and feather disease virus isolate KAT-ERL-150007-VIC-2015, complete genome",Platycercus eximius,Australia,2015,2015.0,KAT-ERL-150007-VIC-2015,True,2018,Australia,2015.0
+OR122676,OR122676.1,1997,"Beak and feather disease virus isolate BFDV_7525_Bursa_VIC_AUS_2019, complete genome",Platycercus elegans,Australia:Victoria,06-Jun-2019,2019.0,BFDV_7525_Bursa_VIC_AUS_2019,True,2023,Australia,2019.0
+KX641210,KX641210.1,655,"Beak and feather disease virus isolate BA19 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA19,False,2017,Bangladesh,2014.0
+KX641212,KX641212.1,658,"Beak and feather disease virus isolate BA21 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA21,False,2017,Bangladesh,2014.0
+AY450442,AY450442.1,1996,"Beak and feather disease virus isolate BCL1-ZA, complete genome",Agapornis nigrigenis,,,,BCL1-ZA,True,2004,,2004.0
+JX221040,JX221040.1,1993,"Beak and feather disease virus isolate BFDV-R_PL-742_2008, complete genome",Amazona aestiva,Poland,16-Dec-2008,2008.0,BFDV-R_PL-742_2008,True,2013,Poland,2008.0
+KU888691,KU888691.1,653,"Beak and feather disease virus isolate VTN2 replication associated protein gene, partial cds",Psittacula finschii,Viet Nam,01-Jan-2015,2015.0,VTN2,False,2017,Viet Nam,2015.0
+KU888690,KU888690.1,653,"Beak and feather disease virus isolate VTN1 replication associated protein gene, partial cds",Psittacula finschii,Viet Nam,01-Jan-2015,2015.0,VTN1,False,2017,Viet Nam,2015.0
+KU888692,KU888692.1,653,"Beak and feather disease virus isolate VTN6 replication associated protein gene, partial cds",Psittacula finschii,Viet Nam,01-Jan-2015,2015.0,VTN6,False,2017,Viet Nam,2015.0
+KU888684,KU888684.1,653,"Beak and feather disease virus isolate MA3 replication associated protein gene, partial cds",Psittacula krameri,Mali,01-Oct-2015,2015.0,MA3,False,2017,Mali,2015.0
+HQ641507,HQ641507.1,687,"Beak and feather disease virus isolate 207E05/06 replicase protein gene, partial cds",Psittacula echo,Mauritius,16-Dec-2005,2005.0,207E05/06,False,2012,Mauritius,2005.0
+HQ641508,HQ641508.1,698,"Beak and feather disease virus isolate 209E05/06 replicase protein gene, partial cds",Psittacula echo,Mauritius,30-Jan-2006,2006.0,209E05/06,False,2012,Mauritius,2006.0
+HQ641517,HQ641517.1,696,"Beak and feather disease virus isolate 224E05/06 replicase protein gene, partial cds",Psittacula echo,Mauritius,06-Jan-2006,2006.0,224E05/06,False,2012,Mauritius,2006.0
+HQ641518,HQ641518.1,706,"Beak and feather disease virus isolate 226E05/06 replicase protein gene, partial cds",Psittacula echo,Mauritius,2006,2006.0,226E05/06,False,2012,Mauritius,2006.0
+HQ641520,HQ641520.1,691,"Beak and feather disease virus isolate 232E05/06 replicase protein gene, partial cds",Psittacula echo,Mauritius,21-Dec-2005,2005.0,232E05/06,False,2012,Mauritius,2005.0
+HQ641521,HQ641521.1,717,"Beak and feather disease virus isolate 233E05/06 replicase protein gene, partial cds",Psittacula echo,Mauritius,17-Dec-2005,2005.0,233E05/06,False,2012,Mauritius,2005.0
+HQ641523,HQ641523.1,689,"Beak and feather disease virus isolate 235E05/06 replicase protein gene, partial cds",Psittacula echo,Mauritius,22-Dec-2005,2005.0,235E05/06,False,2012,Mauritius,2005.0
+HQ641539,HQ641539.1,688,"Beak and feather disease virus isolate 317E06/07 replicase protein gene, partial cds",Psittacula echo,Mauritius,18-Dec-2006,2006.0,317E06/07,False,2012,Mauritius,2006.0
+HQ641543,HQ641543.1,656,"Beak and feather disease virus isolate 356E06/07 replicase protein gene, partial cds",Psittacula echo,Mauritius,14-Dec-2006,2006.0,356E06/07,False,2012,Mauritius,2006.0
+HQ641546,HQ641546.1,683,"Beak and feather disease virus isolate 390E07/08 replicase protein gene, partial cds",Psittacula echo,Mauritius,23-Nov-2007,2007.0,390E07/08,False,2012,Mauritius,2007.0
+HQ641492,HQ641492.1,705,"Beak and feather disease virus isolate 056E93/94 replicase protein gene, partial cds",Psittacula echo,Mauritius,23-Dec-1993,1993.0,056E93/94,False,2012,Mauritius,1993.0
+HQ641466,HQ641466.1,655,"Beak and feather disease virus isolate 018R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,018R06/07,False,2012,Mauritius,2007.0
+HQ641460,HQ641460.1,704,"Beak and feather disease virus isolate 010R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,02-Nov-2006,2006.0,010R06/07,False,2012,Mauritius,2006.0
+HQ641461,HQ641461.1,704,"Beak and feather disease virus isolate 011R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,02-Nov-2006,2006.0,011R06/07,False,2012,Mauritius,2006.0
+HQ641462,HQ641462.1,651,"Beak and feather disease virus isolate 013R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,013R06/07,False,2012,Mauritius,2007.0
+HQ641463,HQ641463.1,658,"Beak and feather disease virus isolate 014R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,014R06/07,False,2012,Mauritius,2007.0
+HQ641464,HQ641464.1,691,"Beak and feather disease virus isolate 016R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,016R06/07,False,2012,Mauritius,2007.0
+HQ641465,HQ641465.1,654,"Beak and feather disease virus isolate 017R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,017R06/07,False,2012,Mauritius,2007.0
+HQ641468,HQ641468.1,667,"Beak and feather disease virus isolate 022R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,022R06/07,False,2012,Mauritius,2007.0
+HQ641470,HQ641470.1,689,"Beak and feather disease virus isolate 025R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,025R06/07,False,2012,Mauritius,2007.0
+HQ641471,HQ641471.1,694,"Beak and feather disease virus isolate 026R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,026R06/07,False,2012,Mauritius,2007.0
+HQ641478,HQ641478.1,687,"Beak and feather disease virus isolate 035R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,25-Sep-2006,2006.0,035R06/07,False,2012,Mauritius,2006.0
+HQ641480,HQ641480.1,693,"Beak and feather disease virus isolate 037R95/96 replicase protein gene, partial cds",Psittacula krameri,Mauritius,21-Oct-1995,1995.0,037R95/96,False,2012,Mauritius,1995.0
+HQ641488,HQ641488.1,694,"Beak and feather disease virus isolate 094R07/08 replicase protein gene, partial cds",Psittacula krameri,Mauritius,28-Jan-2008,2008.0,094R07/08,False,2012,Mauritius,2008.0
+HQ641484,HQ641484.1,670,"Beak and feather disease virus isolate 085R07/08 replicase protein gene, partial cds",Psittacula krameri,Mauritius,22-Jan-2008,2008.0,085R07/08,False,2012,Mauritius,2008.0
+HQ641473,HQ641473.1,687,"Beak and feather disease virus isolate 028R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,Feb-2007,2007.0,028R06/07,False,2012,Mauritius,2007.0
+HQ641483,HQ641483.1,687,"Beak and feather disease virus isolate 081R06/07 replicase protein gene, partial cds",Psittacula krameri,Mauritius,10-Jan-2007,2007.0,081R06/07,False,2012,Mauritius,2007.0
+HQ641482,HQ641482.1,655,"Beak and feather disease virus isolate 076R07/08 replicase protein gene, partial cds",Psittacula krameri,Mauritius,28-Dec-2007,2007.0,076R07/08,False,2012,Mauritius,2007.0
+KT168350,KT168350.1,1994,"Beak and feather disease virus isolate CS14-0453-001-OBP, complete genome",Neophema chrysogaster,Australia,2014,2014.0,CS14-0453-001-OBP,True,2017,Australia,2014.0
+KF188690,KF188690.1,1993,"Beak and feather disease virus isolate CS08-482-OBP-TAS-19139, complete genome",Orange-bellied parrot,Australia,,,CS08-482-OBP-TAS-19139,True,2014,Australia,2014.0
+KF188688,KF188688.1,1993,"Beak and feather disease virus isolate CS08-450-OBP-TAS-19183, complete genome",Orange-bellied parrot,Australia,,,CS08-450-OBP-TAS-19183,True,2014,Australia,2014.0
+KF188686,KF188686.1,1993,"Beak and feather disease virus isolate CS08-448-OBP-TAS-19124, complete genome",Orange-bellied parrot,Australia,,,CS08-448-OBP-TAS-19124,True,2014,Australia,2014.0
+KC693651,KC693651.1,1993,"Beak and feather disease virus isolate CS12082720213, complete genome",Neophema chrysogaster,Australia,2012,2012.0,CS12082720213,True,2014,Australia,2012.0
+KF188681,KF188681.1,1993,"Beak and feather disease virus isolate CS08-416-OBP-TAS-19144, complete genome",Orange-bellied parrot,Australia,,,CS08-416-OBP-TAS-19144,True,2014,Australia,2014.0
+KF188685,KF188685.1,1993,"Beak and feather disease virus isolate CS08-425-OBP-TAS-19140, complete genome",Orange-bellied parrot,Australia,,,CS08-425-OBP-TAS-19140,True,2014,Australia,2014.0
+KF188687,KF188687.1,1993,"Beak and feather disease virus isolate CS08-449-OBP-TAS-19167, complete genome",Orange-bellied parrot,Australia,,,CS08-449-OBP-TAS-19167,True,2014,Australia,2014.0
+KF188689,KF188689.1,1993,"Beak and feather disease virus isolate CS08-459-OBP-TAS-19157, complete genome",Orange-bellied parrot,Australia,,,CS08-459-OBP-TAS-19157,True,2014,Australia,2014.0
+KF188692,KF188692.1,1993,"Beak and feather disease virus isolate CS10-1018-OBP-VIC-HS030910-c, complete genome",Orange-bellied parrot,Australia,,,CS10-1018-OBP-VIC-HS030910-c,True,2014,Australia,2014.0
+KF188693,KF188693.1,1993,"Beak and feather disease virus isolate CS11-1361-OBP-VIC-B10750, complete genome",Orange-bellied parrot,Australia,,,CS11-1361-OBP-VIC-B10750,True,2014,Australia,2014.0
+KF188695,KF188695.1,717,"Beak and feather disease virus isolate CS12-0364-QA2-OBP-TAS-B10083 putative replication-associated protein gene, partial cds",Orange-bellied parrot,Australia,2012,2012.0,CS12-0364-QA2-OBP-TAS-B10083,False,2014,Australia,2012.0
+KF561250,KF561250.1,1993,"Beak and feather disease virus isolate CS12-0827-20214-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2012,2012.0,CS12-0827-20214-OBP-TAS,True,2014,Australia,2012.0
+KT168351,KT168351.1,1993,"Beak and feather disease virus isolate CS14-0453-002-OBP, complete genome",Neophema chrysogaster,Australia,2014,2014.0,CS14-0453-002-OBP,True,2017,Australia,2014.0
+KT168352,KT168352.1,1993,"Beak and feather disease virus isolate OBP3, complete genome",Neophema chrysogaster,Australia,2014,2014.0,OBP3,True,2017,Australia,2014.0
+KT168353,KT168353.1,1993,"Beak and feather disease virus isolate OBP-TT, complete genome",Neophema chrysogaster,Australia,2014,2014.0,OBP-TT,True,2017,Australia,2014.0
+KF188683,KF188683.1,1993,"Beak and feather disease virus isolate CS08-423-OBP-TAS-19076, complete genome",Orange-bellied parrot,Australia,,,CS08-423-OBP-TAS-19076,True,2014,Australia,2014.0
+KM887948,KM887948.1,1990,"Beak and feather disease virus isolate BFDV_AUS_BDG_2010_324, complete genome",Melopsittacus undulatus,Australia,2010,2010.0,BFDV_AUS_BDG_2010_324,True,2016,Australia,2010.0
+KM887949,KM887949.1,1990,"Beak and feather disease virus isolate BFDV_AUS_BDG_2010_326, complete genome",Melopsittacus undulatus,Australia,2010,2010.0,BFDV_AUS_BDG_2010_326,True,2016,Australia,2010.0
+KF688569,KF688569.1,687,"Beak and feather disease virus isolate BFDV_AUS_04_370 putative replication-associated protein (Rep) gene, partial cds",Melopsittacus undulatus,Australia,2004,2004.0,BFDV_AUS_04_370,False,2016,Australia,2004.0
+MK387074,MK387074.1,1992,"Beak and feather disease virus isolate BFDV_BDG_BD_2017_06, complete genome",Melopsittacus undulatus,Bangladesh,2017,2017.0,BFDV_BDG_BD_2017_06,True,2020,Bangladesh,2017.0
+OM641691,OM641691.1,693,"Beak and feather disease virus isolate CVASU_BD_68 putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus (Budgerigar),Bangladesh,2021,2021.0,CVASU_BD_68,False,2022,Bangladesh,2021.0
+PP495510,PP495510.1,717,"Beak and feather disease virus isolate CVASU-BD-14F putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-14F,False,2024,Bangladesh,2023.0
+PP495513,PP495513.1,704,"Beak and feather disease virus isolate CVASU-BD-16B putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-16B,False,2024,Bangladesh,2023.0
+PP495514,PP495514.1,701,"Beak and feather disease virus isolate CVASU-BD-16F putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-16F,False,2024,Bangladesh,2023.0
+PP495506,PP495506.1,706,"Beak and feather disease virus isolate CVASU-BD-11B putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-11B,False,2024,Bangladesh,2023.0
+PP495503,PP495503.1,697,"Beak and feather disease virus isolate CVASU-BD-7F putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-7F,False,2024,Bangladesh,2023.0
+PP495504,PP495504.1,706,"Beak and feather disease virus isolate CVASU-BD-8B putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-8B,False,2024,Bangladesh,2023.0
+PP495509,PP495509.1,709,"Beak and feather disease virus isolate CVASU-BD-13F putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-13F,False,2024,Bangladesh,2023.0
+PP495508,PP495508.1,688,"Beak and feather disease virus isolate CVASU-BD-12F putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Bangladesh,2023,2023.0,CVASU-BD-12F,False,2024,Bangladesh,2023.0
+OM641688,OM641688.1,692,"Beak and feather disease virus isolate CVASU_BD_51 putative replication-associated protein (rep) gene, partial cds",Taeniopygia guttata (Zebra Finch),Bangladesh,2021,2021.0,CVASU_BD_51,False,2022,Bangladesh,2021.0
+OM641689,OM641689.1,702,"Beak and feather disease virus isolate CVASU_BD_52 putative replication-associated protein (rep) gene, partial cds",Lonchura oryzivora (Java sparrow),Bangladesh,2021,2021.0,CVASU_BD_52,False,2022,Bangladesh,2021.0
+OP039995,OP039995.1,698,"Beak and feather disease virus strain BFDV-1-SD-IR-Love bird replication-associated protein (rep) gene, partial cds",Agapornis fischeri,Iran,2018,2018.0,BFDV1IR-Love bird,False,2023,Iran,2018.0
+OP185945,OP185945.1,690,"Beak and feather disease virus isolate 67 replicase-associated protein (ORF1) gene, partial cds",Columba livia,Namibia,2022,2022.0,67,False,2023,Namibia,2022.0
+OP185942,OP185942.1,690,"Beak and feather disease virus isolate 48 replicase-associated protein (ORF1) gene, partial cds",Agapornis sp.,Namibia,2022,2022.0,48,False,2023,Namibia,2022.0
+OL830408,OL830408.1,690,"Beak and feather disease virus isolate BDFV_NAM_9_BG_2021 replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Namibia,04-Jun-2021,2021.0,BDFV_NAM_9_BG_2021,False,2022,Namibia,2021.0
+ON013735,ON013735.1,691,"Beak and feather disease virus isolate 9 replicase (ORF1) gene, partial cds",Melopsittacus undulatus,Namibia,04-Jun-2021,2021.0,9,False,2022,Namibia,2021.0
+ON013736,ON013736.1,691,"Beak and feather disease virus isolate 10 replicase (ORF1) gene, partial cds",jenday conure,Namibia,22-Apr-2021,2021.0,10,False,2022,Namibia,2021.0
+OP185953,OP185953.1,690,"Beak and feather disease virus isolate 9 replicase-associated protein (ORF1) gene, partial cds",Melopsittacus undulatus,Namibia,2021,2021.0,9,False,2023,Namibia,2021.0
+OP185947,OP185947.1,690,"Beak and feather disease virus isolate 69 replicase-associated protein (ORF1) gene, partial cds",Columba livia,Namibia,2022,2022.0,69,False,2023,Namibia,2022.0
+KP677581,KP677581.1,1984,"Beak and feather disease virus isolate Taiwan-17, complete genome",Melopsittacus undulatus,Taiwan,,,Taiwan-17,True,2016,Taiwan,2016.0
+KP677585,KP677585.1,1993,"Beak and feather disease virus isolate Taiwan-6, complete genome",Melopsittacus undulatus,Taiwan,,,Taiwan-6,True,2016,Taiwan,2016.0
+GQ165756,GQ165756.1,1994,"Beak and feather disease virus isolate BKS1ZA_84, complete genome",Budgerigar,South Africa,2003,2003.0,BKS1ZA_84,True,2010,South Africa,2003.0
+GQ165758,GQ165758.1,1994,"Beak and feather disease virus isolate BKS3ZA_86, complete genome",Budgerigar,South Africa,2003,2003.0,BKS3ZA_86,True,2010,South Africa,2003.0
+GQ165757,GQ165757.1,1994,"Beak and feather disease virus isolate BKS2ZA_85, complete genome",Budgerigar,South Africa,2003,2003.0,BKS2ZA_85,True,2010,South Africa,2003.0
+AB277747,AB277747.1,1996,"Beak and feather disease virus DNA, complete genome, isolate: MU-JP2P",Melopsittacus undulatus,Japan,,,MU-JP2P,True,2016,Japan,2016.0
+MK387075,MK387075.1,1991,"Beak and feather disease virus isolate BFDV_BDG_BD_2017_30, complete genome",Melopsittacus undulatus,Bangladesh,2017,2017.0,BFDV_BDG_BD_2017_30,True,2020,Bangladesh,2017.0
+KT764934,KT764934.1,702,"Beak and feather disease virus strain BFDV-MH-IR-C50-Rep-2014 putative replication protein (rep) gene, partial cds",Melopsittacus undulatus,Iran,2014,2014.0,BFDV-MH-IR-C50-Rep-2014,False,2017,Iran,2014.0
+KT764928,KT764928.1,699,"Beak and feather disease virus strain BFDV-MH-IR-28-Rep-2014 putative replication protein (rep) gene, partial cds",Melopsittacus undulatus,Iran,2014,2014.0,BFDV-MH-IR-28-Rep-2014,False,2017,Iran,2014.0
+KT764926,KT764926.1,700,"Beak and feather disease virus strain BFDV-MH-IR-26-Rep-2014 putative replication protein (rep) gene, partial cds",Melopsittacus undulatus,Iran,2014,2014.0,BFDV-MH-IR-26-Rep-2014,False,2017,Iran,2014.0
+KT764927,KT764927.1,704,"Beak and feather disease virus strain BFDV-MH-IR-27-Rep-2014 putative replication protein (rep) gene, partial cds",Melopsittacus undulatus,Iran,2014,2014.0,BFDV-MH-IR-27-Rep-2014,False,2017,Iran,2014.0
+KM188455,KM188455.1,1994,"Beak and feather disease virus isolate BFDV_ZA_GT07_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: East London, Eastern Cape Province",26-Jul-2010,2010.0,BFDV_ZA_GT07_2011,True,2014,South Africa,2010.0
+KM188454,KM188454.1,1995,"Beak and feather disease virus isolate BFDV_ZA_GT02_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: East London, Eastern Cape Province",26-Jul-2010,2010.0,BFDV_ZA_GT02_2011,True,2014,South Africa,2010.0
+KM188456,KM188456.1,1994,"Beak and feather disease virus isolate BFDV_ZA_GT10_2011, complete genome",Poicephalus robustus (Cape parrot),"South Africa: East London, Eastern Cape Province",26-Jul-2010,2010.0,BFDV_ZA_GT10_2011,True,2014,South Africa,2010.0
+JX221034,JX221034.1,1994,"Beak and feather disease virus isolate BFDV-N_PL-680_2008, complete genome",Melopsittacus undulatus,Poland,06-Oct-2008,2008.0,BFDV-N_PL-680_2008,True,2013,Poland,2008.0
+AB277746,AB277746.1,1996,"Beak and feather disease virus DNA, complete genome, isolate: MU-JP1P",Melopsittacus undulatus,Japan,,,MU-JP1P,True,2010,Japan,2010.0
+JX221027,JX221027.1,1993,"Beak and feather disease virus isolate BFDV-B-D_PL-483_2007, complete genome",Melopsittacus undulatus,Poland,16-Nov-2007,2007.0,BFDV-B-D_PL-483_2007,True,2013,Poland,2007.0
+JX221025,JX221025.1,1993,"Beak and feather disease virus isolate BFDV-B-D_PL-479_2007, complete genome",Cacatua alba,Poland,16-Nov-2007,2007.0,BFDV-B-D_PL-479_2007,True,2013,Poland,2007.0
+JX221026,JX221026.1,1993,"Beak and feather disease virus isolate BFDV-B-D_PL-482_2007, complete genome",Melopsittacus undulatus,Poland,16-Nov-2007,2007.0,BFDV-B-D_PL-482_2007,True,2013,Poland,2007.0
+JX221028,JX221028.1,1994,"Beak and feather disease virus isolate BFDV-B-D_PL-496_2007, complete genome",Melopsittacus undulatus,Poland,01-Dec-2007,2007.0,BFDV-B-D_PL-496_2007,True,2013,Poland,2007.0
+KF385426,KF385426.1,1993,"Beak and feather disease virus isolate BFDV_AUS_LBC_LBC50, complete genome",Cacatua tenuirostris,Australia,2010,2010.0,BFDV_AUS_LBC_LBC50,True,2014,Australia,2010.0
+KF385427,KF385427.1,1993,"Beak and feather disease virus isolate BFDV_AUS_LBC_LBC51, complete genome",Cacatua tenuirostris,Australia,2010,2010.0,BFDV_AUS_LBC_LBC51,True,2014,Australia,2010.0
+OK482702,OK482702.1,1868,"Beak and feather disease virus strain S9/002, complete genome",Cacatua sanguinea,Australia,2020,2020.0,S9/002,True,2022,Australia,2020.0
+OK482701,OK482701.1,1993,"Beak and feather disease virus strain S9/001, complete genome",Cacatua sanguinea,Australia,2020,2020.0,S9/001,True,2022,Australia,2020.0
+OL762453,OL762453.1,1993,"Beak and feather disease virus, complete genome",Ninox boobook,Australia,2019,2019.0,,True,2022,Australia,2019.0
+OQ992780,OQ992780.1,1993,"Beak and feather disease virus isolate GT10/AU replication-associated protein and capsid protein genes, complete cds",Chelonia mydas,Australia,2019,2019.0,GT10/AU,False,2024,Australia,2019.0
+KY189060,KY189060.1,1993,"Beak and feather disease virus isolate KAT-LC-140616-VIC-2014, complete genome",Cacatua sanguinea,Australia,2014,2014.0,KAT-LC-140616-VIC-2014,True,2018,Australia,2014.0
+KF385420,KF385420.1,1990,"Beak and feather disease virus isolate BFDV_AUS_LBC_LBC2, complete genome",Cacatua tenuirostris,Australia,2010,2010.0,BFDV_AUS_LBC_LBC2,True,2014,Australia,2010.0
+KF385425,KF385425.1,1993,"Beak and feather disease virus isolate BFDV_AUS_LBC_LBC33, complete genome",Cacatua tenuirostris,Australia,2010,2010.0,BFDV_AUS_LBC_LBC33,True,2014,Australia,2010.0
+KF499136,KF499136.1,717,"Beak and feather disease virus isolate LBC-10-QG2-LBC-VIC putative replication-associated protein (Rep) gene, partial cds",Cacatua tenuirostris,Australia,2010,2010.0,LBC-10-QG2-LBC-VIC,False,2014,Australia,2010.0
+KF385421,KF385421.1,1993,"Beak and feather disease virus isolate BFDV_AUS_LBC_LBC6, complete genome",Cacatua tenuirostris,Australia,2010,2010.0,BFDV_AUS_LBC_LBC6,True,2014,Australia,2010.0
+KF385423,KF385423.1,1993,"Beak and feather disease virus isolate BFDV_AUS_LBC_LBC10, complete genome",Cacatua tenuirostris,Australia,2010,2010.0,BFDV_AUS_LBC_LBC10,True,2014,Australia,2010.0
+KY189059,KY189059.1,1993,"Beak and feather disease virus isolate KAT-LC-140694-VIC-2014, complete genome",Cacatua sanguinea,Australia,2014,2014.0,KAT-LC-140694-VIC-2014,True,2018,Australia,2014.0
+OR710293,OR710293.1,698,"Beak and feather disease virus isolate BFDV_AUS_RG_CS230624_RGG31 replication-associated protein (Rep) gene, partial cds",Erythrotriorchis radiatus,Australia,2022,2022.0,BFDV_AUS_RG_CS230624_RGG31,False,2024,Australia,2022.0
+OR710294,OR710294.1,705,"Beak and feather disease virus isolate BFDV_AUS_RG_CS230624_RGG32 replication-associated protein (Rep) gene, partial cds",Erythrotriorchis radiatus,Australia,2022,2022.0,BFDV_AUS_RG_CS230624_RGG32,False,2024,Australia,2022.0
+KF188699,KF188699.1,717,"Beak and feather disease virus isolate CS10-1018-QB5-OBP-VIC-HS030910-C putative replication-associated protein gene, partial cds",Orange-bellied parrot,Australia,2010,2010.0,CS10-1018-QB5-OBP-VIC-HS030910-C,False,2014,Australia,2010.0
+KF188698,KF188698.1,717,"Beak and feather disease virus isolate CS10-1018-QB4-OBP-VIC-HS030910-C putative replication-associated protein gene, partial cds",Orange-bellied parrot,Australia,2010,2010.0,CS10-1018-QB4-OBP-VIC-HS030910-C,False,2014,Australia,2010.0
+KF188701,KF188701.1,717,"Beak and feather disease virus isolate CS10-1018-QB7-OBP-VIC-HS030910-C putative replication-associated protein gene, partial cds",Orange-bellied parrot,Australia,2010,2010.0,CS10-1018-QB7-OBP-VIC-HS030910-C,False,2014,Australia,2010.0
+KF188700,KF188700.1,717,"Beak and feather disease virus isolate CS10-1018-QB6-OBP-VIC-HS030910-C putative replication-associated protein gene, partial cds",Orange-bellied parrot,Australia,2010,2010.0,CS10-1018-QB6-OBP-VIC-HS030910-C,False,2014,Australia,2010.0
+KF188691,KF188691.1,1993,"Beak and feather disease virus isolate CS10-1017-OBP-VIC-HS030910-B, complete genome",Orange-bellied parrot,Australia,,,CS10-1017-OBP-VIC-HS030910-B,True,2014,Australia,2014.0
+KF188696,KF188696.1,717,"Beak and feather disease virus isolate CS10-1018-QB2-OBP-VIC-HS030910-C putative replication-associated protein gene, partial cds",Orange-bellied parrot,Australia,2010,2010.0,CS10-1018-QB2-OBP-VIC-HS030910-C,False,2014,Australia,2010.0
+KF188697,KF188697.1,717,"Beak and feather disease virus isolate CS10-1018-QB3-OBP-VIC-HS030910-C putative replication-associated protein gene, partial cds",Orange-bellied parrot,Australia,2010,2010.0,CS10-1018-QB3-OBP-VIC-HS030910-C,False,2014,Australia,2010.0
+KF385429,KF385429.1,1993,"Beak and feather disease virus isolate BFDV_AUS_LBC_13_1622_006, complete genome",Cacatua tenuirostris,Australia,2013,2013.0,BFDV_AUS_LBC_13_1622_006,True,2014,Australia,2013.0
+KF385436,KF385436.1,1993,"Beak and feather disease virus isolate BFDV_AUS_Galah_04_410, complete genome",Eolophus roseicapillus,Australia,2004,2004.0,BFDV_AUS_Galah_04_410,True,2014,Australia,2004.0
+EF457974,EF457974.1,1993,"Beak and feather disease virus isolate 05-106, complete genome",Nymphicus hollandicus,Australia,,,05-106,True,2008,Australia,2008.0
+KF385432,KF385432.1,1993,"Beak and feather disease virus isolate BFDV_AUS_Galah_04_093A, complete genome",Eolophus roseicapillus,Australia,2004,2004.0,BFDV_AUS_Galah_04_093A,True,2014,Australia,2004.0
+KY189058,KY189058.1,1993,"Beak and feather disease virus isolate KAT-LC-140717-VIC-2014, complete genome",Cacatua sanguinea,Australia,2014,2014.0,KAT-LC-140717-VIC-2014,True,2018,Australia,2014.0
+KY189061,KY189061.1,1997,"Beak and feather disease virus isolate KAT-LC-140609-VIC-2014, complete genome",Cacatua sanguinea,Australia,2014,2014.0,KAT-LC-140609-VIC-2014,True,2018,Australia,2014.0
+MK163676,MK163676.1,1902,"Beak and feather disease virus isolate BFDV-LC, complete genome",Cacatua sanguinea,Australia,2017,2017.0,BFDV-LC,True,2019,Australia,2017.0
+KF499133,KF499133.1,717,"Beak and feather disease virus isolate 04-604-QD3-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,2004,2004.0,04-604-QD3-GGC-WA,False,2014,Australia,2004.0
+KF385406,KF385406.1,1993,"Beak and feather disease virus isolate BFDV_AUS_MMC_04_593, complete genome",Cacatua leadbeateri,Australia,2004,2004.0,BFDV_AUS_MMC_04_593,True,2014,Australia,2004.0
+KF499134,KF499134.1,717,"Beak and feather disease virus isolate 04-604-QD4-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,2004,2004.0,04-604-QD4-GGC-WA,False,2014,Australia,2004.0
+KF385410,KF385410.1,1988,"Beak and feather disease virus isolate BFDV_AUS_GBC_11_385, complete genome",Calyptorhynchus lathami,Australia,2011,2011.0,BFDV_AUS_GBC_11_385,True,2014,Australia,2011.0
+KF385409,KF385409.1,1988,"Beak and feather disease virus isolate BFDV_AUS_GBC_11_383, complete genome",Calyptorhynchus lathami,Australia,2011,2011.0,BFDV_AUS_GBC_11_383,True,2014,Australia,2011.0
+KF385411,KF385411.1,1993,"Beak and feather disease virus isolate BFDV_AUS_GBC_11_391, complete genome",Calyptorhynchus lathami,Australia,2011,2011.0,BFDV_AUS_GBC_11_391,True,2014,Australia,2011.0
+KF385412,KF385412.1,1993,"Beak and feather disease virus isolate BFDV_AUS_GBC_11_392, complete genome",Calyptorhynchus lathami,Australia,2011,2011.0,BFDV_AUS_GBC_11_392,True,2014,Australia,2011.0
+KF499126,KF499126.1,717,"Beak and feather disease virus isolate 96-1404-QC2-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,1996,1996.0,96-1404-QC2-GGC-WA,False,2014,Australia,1996.0
+KF499128,KF499128.1,717,"Beak and feather disease virus isolate 96-1404-QC4-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,1996,1996.0,96-1404-QC4-GGC-WA,False,2014,Australia,1996.0
+KF499129,KF499129.1,717,"Beak and feather disease virus isolate 96-1404-QC5-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,1996,1996.0,96-1404-QC5-GGC-WA,False,2014,Australia,1996.0
+AB514568,AB514568.1,1991,"Beak and feather disease virus DNA, complete genome, strain: CO-JP",,Japan:Fukuoka,,,CO-JP,True,2010,Japan,2010.0
+AF080560,AF080560.1,1993,"Beak and feather disease virus, complete genome",Cacatua galerita,,,,,True,1998,,1998.0
+KX500102,KX500102.1,1993,"Beak and feather disease virus isolate CS15-3289-NSW, complete genome",Falco peregrinus,Australia,2015,2015.0,CS15-3289-NSW,True,2017,Australia,2015.0
+KF385407,KF385407.1,1993,"Beak and feather disease virus isolate BFDV_AUS_MMC_1997, complete genome",Cacatua leadbeateri,Australia,1997,1997.0,BFDV_AUS_MMC_1997,True,2014,Australia,1997.0
+KF385435,KF385435.1,1996,"Beak and feather disease virus isolate BFDV_AUS_Galah_04_298, complete genome",Eolophus roseicapillus,Australia,2004,2004.0,BFDV_AUS_Galah_04_298,True,2014,Australia,2004.0
+OR729123,OR729123.1,2009,"Beak and feather disease virus isolate AU/VIC/S21B, complete genome",Psittacula eupatria,Australia,04-May-2022,2022.0,AU/VIC/S21B,True,2023,Australia,2022.0
+KF385415,KF385415.1,1988,"Beak and feather disease virus isolate BFDV_AUS_SCC_12_3044_001, complete genome",Cacatua galerita,Australia,2012,2012.0,BFDV_AUS_SCC_12_3044_001,True,2014,Australia,2012.0
+EF457975,EF457975.1,1993,"Beak and feather disease virus isolate 05-726, complete genome",Nymphicus hollandicus,Australia,,,05-726,True,2008,Australia,2008.0
+KF385428,KF385428.1,1993,"Beak and feather disease virus isolate BFDV_AUS_LBC_W45610, complete genome",Cacatua tenuirostris,Australia,2010,2010.0,BFDV_AUS_LBC_W45610,True,2014,Australia,2010.0
+AF311301,AF311301.1,1994,"Beak and feather disease virus natural-host Cacatua galerita, complete genome",Cacatua galerita,Australia: Northern Territory,,,,True,2001,Australia,2001.0
+KF385401,KF385401.1,1993,"Beak and feather disease virus isolate BFDV_AUS_GGC_96_1404, complete genome",Callocephalon fimbriatum,Australia,1996,1996.0,BFDV_AUS_GGC_96_1404,True,2014,Australia,1996.0
+KF499130,KF499130.1,1213,"Beak and feather disease virus isolate 96-1404-QC6-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,1996,1996.0,96-1404-QC6-GGC-WA,False,2014,Australia,1996.0
+KF499131,KF499131.1,1213,"Beak and feather disease virus isolate 96-1404-QC7-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,1996,1996.0,96-1404-QC7-GGC-WA,False,2014,Australia,1996.0
+KF385404,KF385404.1,1993,"Beak and feather disease virus isolate BFDV_AUS_GGC_11_1212, complete genome",Callocephalon fimbriatum,Australia,2011,2011.0,BFDV_AUS_GGC_11_1212,True,2014,Australia,2011.0
+KF385405,KF385405.1,1993,"Beak and feather disease virus isolate BFDV_AUS_GGC_11_1213, complete genome",Callocephalon fimbriatum,Australia,2011,2011.0,BFDV_AUS_GGC_11_1213,True,2014,Australia,2011.0
+KF499139,KF499139.1,1993,"Beak and feather disease virus isolate 11-1212-QE2-GGC-NSW, complete genome",Callocephalon fimbriatum,Australia,2011,2011.0,11-1212-QE2-GGC-NSW,True,2014,Australia,2011.0
+KF499140,KF499140.1,1993,"Beak and feather disease virus isolate 11-1212-QE3-GGC-NSW, complete genome",Callocephalon fimbriatum,Australia,2011,2011.0,11-1212-QE3-GGC-NSW,True,2014,Australia,2011.0
+KF385402,KF385402.1,1993,"Beak and feather disease virus isolate BFDV_AUS_GGC_04_604, complete genome",Callocephalon fimbriatum,Australia,2004,2004.0,BFDV_AUS_GGC_04_604,True,2014,Australia,2004.0
+KF385403,KF385403.1,1988,"Beak and feather disease virus isolate BFDV_AUS_GGC_10_863, complete genome",Callocephalon fimbriatum,Australia,2010,2010.0,BFDV_AUS_GGC_10_863,True,2014,Australia,2010.0
+ON737816,ON737816.1,717,"Beak and feather disease virus isolate river/psittacine/VPP02 putative replication-associated protein (rep) gene, partial cds",psittacine bird,India,2022,2022.0,river/psittacine/VPP02,False,2022,India,2022.0
+KP677574,KP677574.1,2027,"Beak and feather disease virus isolate Taiwan-8, complete genome",Agapornis roseicollis,Taiwan,,,Taiwan-8,True,2016,Taiwan,2016.0
+AY521234,AY521234.1,1995,"Beak and feather disease virus strain PK01 putative replication-associated protein gene, complete cds; putative coat protein gene, partial cds; and unknown genes",Psittacula kramerii,USA: Texas,,,PK01,False,2016,USA,2016.0
+AY521235,AY521235.1,2019,"Beak and feather disease virus strain AR02 putative replication-associated protein gene, complete cds; putative coat protein gene, partial cds; and unknown genes",Agapornis roseicollis,United Kingdom,,,AR02,False,2016,United Kingdom,2016.0
+KP677590,KP677590.1,2005,"Beak and feather disease virus isolate Taiwan-10, complete genome",Agapornis roseicollis,Taiwan,,,Taiwan-10,True,2016,Taiwan,2016.0
+KP677587,KP677587.1,2021,"Beak and feather disease virus isolate Taiwan-2, complete genome",Aratinga solstitialis,Taiwan,,,Taiwan-2,True,2016,Taiwan,2016.0
+KP677591,KP677591.1,2020,"Beak and feather disease virus isolate Taiwan-11, complete genome",Agapornis roseicollis,Taiwan,,,Taiwan-11,True,2016,Taiwan,2016.0
+KP677586,KP677586.1,2004,"Beak and feather disease virus isolate Taiwan-3, complete genome",Aratinga solstitialis,Taiwan,,,Taiwan-3,True,2016,Taiwan,2016.0
+KP677588,KP677588.1,2021,"Beak and feather disease virus isolate Taiwan-4, complete genome",Eos bornea,Taiwan,,,Taiwan-4,True,2016,Taiwan,2016.0
+KP677577,KP677577.1,2009,"Beak and feather disease virus isolate Taiwan-13, complete genome",Aratinga solstitialis,Taiwan,,,Taiwan-13,True,2016,Taiwan,2016.0
+KP677576,KP677576.1,2051,"Beak and feather disease virus isolate Taiwan-12, complete genome",Aratinga solstitialis,Taiwan,,,Taiwan-12,True,2016,Taiwan,2016.0
+KP677579,KP677579.1,2033,"Beak and feather disease virus isolate Taiwan-15, complete genome",Melopsittacus undulatus,Taiwan,,,Taiwan-15,True,2016,Taiwan,2016.0
+AF311295,AF311295.1,2018,"Beak and feather disease virus natural-host Psephotus haematogaster, complete genome",Psephotus haematogaster,Australia: Western Australia,,,,True,2001,Australia,2001.0
+AF311296,AF311296.1,2018,"Beak and feather disease virus natural-host Agapomis roseicollis, complete genome",Agapomis roseicollis,Australia: Western Australia,,,,True,2001,Australia,2001.0
+KF688551,KF688551.1,1996,"Beak and feather disease virus isolate BFDV_AUS_BP_1996, complete genome",Neopsephotus bourkii,Australia,1996,1996.0,BFDV_AUS_BP_1996,True,2016,Australia,1996.0
+OQ995102,OQ995102.1,2022,"Beak and feather disease virus isolate LBF_68, complete genome",Agapornis roseicollis,USA: Arizona,08-Jun-2022,2022.0,LBF_68,True,2024,USA,2022.0
+OQ995104,OQ995104.1,2021,"Beak and feather disease virus isolate LBF_76, complete genome",Agapornis roseicollis,USA: Arizona,13-Jun-2022,2022.0,LBF_76,True,2024,USA,2022.0
+OQ995095,OQ995095.1,2021,"Beak and feather disease virus isolate LBF_56, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_56,True,2024,USA,2022.0
+OQ995100,OQ995100.1,2021,"Beak and feather disease virus isolate LBF_66, complete genome",Agapornis roseicollis,USA: Arizona,08-Jun-2022,2022.0,LBF_66,True,2024,USA,2022.0
+OQ995093,OQ995093.1,2021,"Beak and feather disease virus isolate LBF_54, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_54,True,2024,USA,2022.0
+OQ995092,OQ995092.1,2024,"Beak and feather disease virus isolate LBF_53, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_53,True,2024,USA,2022.0
+OQ995094,OQ995094.1,2019,"Beak and feather disease virus isolate LBF_55, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_55,True,2024,USA,2022.0
+OQ995073,OQ995073.1,2015,"Beak and feather disease virus isolate LBF_3, complete genome",Agapornis roseicollis,USA: Arizona,20-Feb-2022,2022.0,LBF_3,True,2024,USA,2022.0
+OQ995072,OQ995072.1,2022,"Beak and feather disease virus isolate LBF17, complete genome",Agapornis roseicollis,USA: Arizona,22-Feb-2022,2022.0,LBF17,True,2024,USA,2022.0
+OQ995067,OQ995067.1,2020,"Beak and feather disease virus isolate LBB_65, complete genome",Agapornis roseicollis,USA: Arizona,08-Jun-2022,2022.0,LBB_65,True,2024,USA,2022.0
+OR424520,OR424520.1,2019,"Beak and feather disease virus isolate LBB_47, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBB_47,True,2025,USA,2022.0
+OQ995096,OQ995096.1,2022,"Beak and feather disease virus isolate LBF_57, complete genome",Agapornis roseicollis,USA: Arizona,06-Jun-2022,2022.0,LBF_57,True,2024,USA,2022.0
+OR424530,OR424530.1,2017,"Beak and feather disease virus isolate LBF_79, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_79,True,2025,USA,2022.0
+OR424526,OR424526.1,2015,"Beak and feather disease virus isolate LBF_28, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_28,True,2025,USA,2022.0
+OR424527,OR424527.1,2012,"Beak and feather disease virus isolate LBF_30, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_30,True,2025,USA,2022.0
+OQ995082,OQ995082.1,2014,"Beak and feather disease virus isolate LBF_29, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_29,True,2024,USA,2022.0
+OR424507,OR424507.1,2010,"Beak and feather disease virus isolate LBB_27, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_27,True,2025,USA,2022.0
+OR424529,OR424529.1,2014,"Beak and feather disease virus isolate LBF_34, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBF_34,True,2025,USA,2022.0
+OR424513,OR424513.1,2015,"Beak and feather disease virus isolate LBB_35, complete genome",Agapornis roseicollis,USA: Arizona,02-Jun-2022,2022.0,LBB_35,True,2025,USA,2022.0
+OP040000,OP040000.1,664,"Beak and feather disease virus strain BFDV-6-SD-IR-Cockatiel replication-associated protein (rep) gene, partial cds",Nymphicus hollandicus,Iran,2019,2019.0,BFDV6IR-Cockatiel,False,2023,Iran,2019.0
+OP040001,OP040001.1,660,"Beak and feather disease virus strain BFDV-7-SD-IR-love bird replication-associated protein (rep) gene, partial cds",Agapornis fischeri,Iran,2019,2019.0,BFDV7IR-love bird,False,2023,Iran,2019.0
+JX221033,JX221033.1,2000,"Beak and feather disease virus isolate BFDV-J_PL-677_2008, complete genome",Alisterus scapularis,Poland,06-Oct-2008,2008.0,BFDV-J_PL-677_2008,True,2013,Poland,2008.0
+JX049221,JX049221.1,2002,"Beak and feather disease virus isolate 2NC931B, complete genome",Psittacula krameri,New Caledonia,2011,2011.0,2NC931B,True,2012,New Caledonia,2011.0
+JX049213,JX049213.1,2000,"Beak and feather disease virus isolate 2NC85B, complete genome",Eclectus roratus,New Caledonia,2011,2011.0,2NC85B,True,2012,New Caledonia,2011.0
+JX049214,JX049214.1,2001,"Beak and feather disease virus isolate 2NC86F, complete genome",Eclectus roratus,New Caledonia,2011,2011.0,2NC86F,True,2012,New Caledonia,2011.0
+JX049217,JX049217.1,2000,"Beak and feather disease virus isolate 2NC89B, complete genome",Eclectus roratus,New Caledonia,2011,2011.0,2NC89B,True,2012,New Caledonia,2011.0
+JX049220,JX049220.1,2000,"Beak and feather disease virus isolate 2NC92F, complete genome",Cyanoramphus saisetti,New Caledonia,2011,2011.0,2NC92F,True,2012,New Caledonia,2011.0
+JX049219,JX049219.1,2001,"Beak and feather disease virus isolate 2NC91B, complete genome",Psephotus haematonotus,New Caledonia,2011,2011.0,2NC91B,True,2012,New Caledonia,2011.0
+JX049218,JX049218.1,2000,"Beak and feather disease virus isolate 2NC90B, complete genome",Eclectus roratus,New Caledonia,2011,2011.0,2NC90B,True,2012,New Caledonia,2011.0
+JX049215,JX049215.1,2001,"Beak and feather disease virus isolate 2NC87B, complete genome",Eclectus roratus,New Caledonia,2011,2011.0,2NC87B,True,2012,New Caledonia,2011.0
+JX049216,JX049216.1,2002,"Beak and feather disease virus isolate 2NC88B, complete genome",Eclectus roratus,New Caledonia,2011,2011.0,2NC88B,True,2012,New Caledonia,2011.0
+FJ685985,FJ685985.1,2015,"Beak and feather disease virus isolate BFDV13, complete genome",Agapornis sp.,Thailand,2005,2005.0,BFDV13,True,2009,Thailand,2005.0
+JX221036,JX221036.1,2000,"Beak and feather disease virus isolate BFDV-J_PL-684_2008, complete genome",Alexandrine parakeet,Poland,06-Oct-2008,2008.0,BFDV-J_PL-684_2008,True,2013,Poland,2008.0
+JX221029,JX221029.1,2002,"Beak and feather disease virus isolate BFDV-U_PL-543_2008, complete genome",Alisterus scapularis,Poland,04-Mar-2008,2008.0,BFDV-U_PL-543_2008,True,2013,Poland,2008.0
+JX221030,JX221030.1,2001,"Beak and feather disease virus isolate BFDV-J_PL-570_2008, complete genome",Poicephalus senegalus,Poland,14-Apr-2008,2008.0,BFDV-J_PL-570_2008,True,2013,Poland,2008.0
+JX221031,JX221031.1,2001,"Beak and feather disease virus isolate BFDV-J_PL-571_2008, complete genome",Poicephalus senegalus,Poland,14-Apr-2008,2008.0,BFDV-J_PL-571_2008,True,2013,Poland,2008.0
+JX221032,JX221032.1,2000,"Beak and feather disease virus isolate BFDV-J_PL-573_2008, complete genome",Psittacus erithacus,Poland,14-Apr-2008,2008.0,BFDV-J_PL-573_2008,True,2013,Poland,2008.0
+MN025417,MN025417.1,699,"Beak and feather disease virus strain KBFDV-19111 replication associated protein (V1) gene, partial cds",Bolborhynchus lineola,South Korea,2019,2019.0,KBFDV-19111,False,2019,South Korea,2019.0
+AY521238,AY521238.1,1999,"Beak and feather disease virus strain PEU01 putative replication-associated protein gene, complete cds; putative coat protein gene, partial cds; and unknown genes",Psittacus eritacus,United Kingdom,,,PEU01,False,2016,United Kingdom,2016.0
+MH180298,MH180298.1,2000,"Beak and feather disease virus strain SDpbfdv07, complete genome",Psittacus erithacus,China,2017,2017.0,SDpbfdv07,True,2019,China,2017.0
+MH190788,MH190788.1,2000,"Beak and feather disease virus strain SDpbfdv5, complete genome",Psittacus erithacus (African Grey Parrots),China,Apr-2017,2017.0,SDpbfdv5,True,2019,China,2017.0
+KF723384,KF723384.1,2000,"Beak and feather disease virus isolate 6IT09, complete genome",Psittacus erithacus,Italy,2009,2009.0,6IT09,True,2014,Italy,2009.0
+KF723385,KF723385.1,2000,"Beak and feather disease virus isolate 3IT09, complete genome",Psittacus erithacus,Italy,2009,2009.0,3IT09,True,2014,Italy,2009.0
+KF723386,KF723386.1,2000,"Beak and feather disease virus isolate 2IT09, complete genome",Psittacus erithacus,Italy,2009,2009.0,2IT09,True,2014,Italy,2009.0
+KF723387,KF723387.1,2000,"Beak and feather disease virus isolate 8IT10, complete genome",Psittacus erithacus,Italy,2010,2010.0,8IT10,True,2014,Italy,2010.0
+GQ120621,GQ120621.1,2000,"Beak and feather disease virus isolate BFDV-PT08-2, complete genome",Psittacus erithacus,Portugal,2008,2008.0,BFDV-PT08-2,True,2010,Portugal,2008.0
+KF723393,KF723393.1,2000,"Beak and feather disease virus isolate 5IT09, complete genome",Psittacus erithacus,Italy,2009,2009.0,5IT09,True,2014,Italy,2009.0
+GQ329705,GQ329705.1,2000,"Beak and feather disease virus isolate PT09, complete genome",Psittacus erithacus,Portugal,2009,2009.0,PT09,True,2010,Portugal,2009.0
+GU047347,GU047347.1,2000,"Beak and feather disease virus isolate PT09-2, complete genome",Psittacus erithacus,Portugal,2009,2009.0,PT09-2,True,2010,Portugal,2009.0
+ON737815,ON737815.1,717,"Beak and feather disease virus isolate river/psittacine/VPP01 putative replication-associated protein (rep) gene, partial cds",psittacine bird,India,2022,2022.0,river/psittacine/VPP01,False,2022,India,2022.0
+HM748934,HM748934.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_51A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_51A_2008,True,2011,South Africa,2008.0
+HM748936,HM748936.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_45A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_45A_2008,True,2011,South Africa,2008.0
+HM748937,HM748937.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_42A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_42A_2008,True,2011,South Africa,2008.0
+HM748924,HM748924.1,1999,"Beak and feather disease virus isolate BFDV_ZA_Am_83e_2008, complete genome",Amazona sp.,South Africa,2008,2008.0,BFDV_ZA_Am_83e_2008,True,2011,South Africa,2008.0
+HM748925,HM748925.1,1999,"Beak and feather disease virus isolate BFDV_ZA_Am_83a_2008, complete genome",Amazona sp.,South Africa,2008,2008.0,BFDV_ZA_Am_83a_2008,True,2011,South Africa,2008.0
+KT764933,KT764933.1,704,"Beak and feather disease virus strain BFDV-MH-IR-38-Rep-2014 putative replication protein (rep) gene, partial cds",Platycercus eximius,Iran,2014,2014.0,BFDV-MH-IR-38-Rep-2014,False,2017,Iran,2014.0
+MN175611,MN175611.1,1991,"Beak and feather disease virus isolate BR_DF9, complete genome",Amazona aestiva,Brazil,2016,2016.0,BR_DF9,True,2019,Brazil,2016.0
+JX221020,JX221020.1,1995,"Beak and feather disease virus isolate BFDV-T_PL-376_2007, complete genome",Psittacus erithacus,Poland,24-Jul-2007,2007.0,BFDV-T_PL-376_2007,True,2013,Poland,2007.0
+JX221018,JX221018.1,1993,"Beak and feather disease virus isolate BFDV-T_PL-336_2007, complete genome",Psittacus erithacus,Poland,29-Mar-2007,2007.0,BFDV-T_PL-336_2007,True,2013,Poland,2007.0
+JX221005,JX221005.1,2003,"Beak and feather disease virus isolate BFDV-T_PL-1068_2010, complete genome",Melopsittacus undulatus,Poland,24-Apr-2010,2010.0,BFDV-T_PL-1068_2010,True,2013,Poland,2010.0
+JX221017,JX221017.1,1995,"Beak and feather disease virus isolate BFDV-T_PL-328_2007, complete genome",Psittacula krameri,Poland,16-Mar-2007,2007.0,BFDV-T_PL-328_2007,True,2013,Poland,2007.0
+JX221021,JX221021.1,1995,"Beak and feather disease virus isolate BFDV-T_PL-378_2007, complete genome",Amazona amazonica,Poland,24-Jul-2007,2007.0,BFDV-T_PL-378_2007,True,2013,Poland,2007.0
+JX221022,JX221022.1,1995,"Beak and feather disease virus isolate BFDV-T_PL-399_2007, complete genome",Psittacus erithacus,Poland,22-Aug-2007,2007.0,BFDV-T_PL-399_2007,True,2013,Poland,2007.0
+JX221023,JX221023.1,2004,"Beak and feather disease virus isolate BFDV-T_PL-410_2007, complete genome",Psittacus erithacus,Poland,22-Aug-2007,2007.0,BFDV-T_PL-410_2007,True,2013,Poland,2007.0
+JX221012,JX221012.1,2004,"Beak and feather disease virus isolate BFDV-T_PL-1297_2011, complete genome",Melopsittacus undulatus,Poland,24-Nov-2011,2011.0,BFDV-T_PL-1297_2011,True,2013,Poland,2011.0
+MW174168,MW174168.1,706,"Beak and feather disease virus isolate BH1930f replicase gene, partial cds",Anodorhynchus hyacinthinus,"Brazil: UFMG, Belo Horizonte, MG",05-Nov-2018,2018.0,BH1930f,False,2025,Brazil,2018.0
+MW174169,MW174169.1,703,"Beak and feather disease virus isolate BH1930m replicase gene, partial cds",Anodorhynchus hyacinthinus,"Brazil: UFMG, Belo Horizonte, MG",05-Nov-2018,2018.0,BH1930m,False,2025,Brazil,2018.0
+ON502956,ON502956.1,717,"Beak and feather disease virus strain NP-729 replication associated protein (rep) gene, partial cds",Triclaria malachitacea,Brazil,2014,2014.0,NP-729,False,2023,Brazil,2014.0
+KX641238,KX641238.1,667,"Beak and feather disease virus isolate PA6 replication associated protein gene, partial cds",Psittacula krameri,Pakistan,01-Jun-2014,2014.0,PA6,False,2017,Pakistan,2014.0
+KX641206,KX641206.1,657,"Beak and feather disease virus isolate BA13 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA13,False,2017,Bangladesh,2014.0
+KX641207,KX641207.1,665,"Beak and feather disease virus isolate BA14 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA14,False,2017,Bangladesh,2014.0
+KX641217,KX641217.1,663,"Beak and feather disease virus isolate BA27 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA27,False,2017,Bangladesh,2014.0
+KX641215,KX641215.1,657,"Beak and feather disease virus isolate BA25 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA25,False,2017,Bangladesh,2014.0
+KX641227,KX641227.1,655,"Beak and feather disease virus isolate BA9 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA9,False,2017,Bangladesh,2014.0
+KX641203,KX641203.1,658,"Beak and feather disease virus isolate BA10 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA10,False,2017,Bangladesh,2014.0
+KX641208,KX641208.1,660,"Beak and feather disease virus isolate BA15 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA15,False,2017,Bangladesh,2014.0
+KX641225,KX641225.1,666,"Beak and feather disease virus isolate BA7 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA7,False,2017,Bangladesh,2014.0
+KX641223,KX641223.1,666,"Beak and feather disease virus isolate BA5 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA5,False,2017,Bangladesh,2014.0
+KX641235,KX641235.1,670,"Beak and feather disease virus isolate PA16 replication associated protein gene, partial cds",Psittacula krameri,Pakistan,01-Jun-2014,2014.0,PA16,False,2017,Pakistan,2014.0
+KX641224,KX641224.1,660,"Beak and feather disease virus isolate BA6 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA6,False,2017,Bangladesh,2014.0
+KX641222,KX641222.1,663,"Beak and feather disease virus isolate BA4 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA4,False,2017,Bangladesh,2014.0
+KX641221,KX641221.1,660,"Beak and feather disease virus isolate BA30 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA30,False,2017,Bangladesh,2014.0
+KX641219,KX641219.1,657,"Beak and feather disease virus isolate BA29 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA29,False,2017,Bangladesh,2014.0
+KX641211,KX641211.1,664,"Beak and feather disease virus isolate BA20 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA20,False,2017,Bangladesh,2014.0
+KX641205,KX641205.1,669,"Beak and feather disease virus isolate BA12 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA12,False,2017,Bangladesh,2014.0
+KX641216,KX641216.1,673,"Beak and feather disease virus isolate BA26 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA26,False,2017,Bangladesh,2014.0
+KX641213,KX641213.1,673,"Beak and feather disease virus isolate BA22 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA22,False,2017,Bangladesh,2014.0
+KX641220,KX641220.1,663,"Beak and feather disease virus isolate BA3 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA3,False,2017,Bangladesh,2014.0
+KX641218,KX641218.1,667,"Beak and feather disease virus isolate BA28 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA28,False,2017,Bangladesh,2014.0
+KX641204,KX641204.1,660,"Beak and feather disease virus isolate BA11 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA11,False,2017,Bangladesh,2014.0
+KX641214,KX641214.1,673,"Beak and feather disease virus isolate BA23 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA23,False,2017,Bangladesh,2014.0
+KX641209,KX641209.1,663,"Beak and feather disease virus isolate BA17 replication associated protein gene, partial cds",Psittacula krameri,Bangladesh,01-Jun-2014,2014.0,BA17,False,2017,Bangladesh,2014.0
+KX641237,KX641237.1,657,"Beak and feather disease virus isolate PA5 replication associated protein gene, partial cds",Psittacula krameri,Pakistan,01-Jun-2014,2014.0,PA5,False,2017,Pakistan,2014.0
+KX641234,KX641234.1,667,"Beak and feather disease virus isolate PA12 replication associated protein gene, partial cds",Psittacula krameri,Pakistan,01-Jun-2014,2014.0,PA12,False,2017,Pakistan,2014.0
+KX641239,KX641239.1,657,"Beak and feather disease virus isolate PA7 replication associated protein gene, partial cds",Psittacula krameri,Pakistan,01-Jun-2014,2014.0,PA7,False,2017,Pakistan,2014.0
+KX641233,KX641233.1,662,"Beak and feather disease virus isolate PA11 replication associated protein gene, partial cds",Psittacula krameri,Pakistan,01-Jun-2014,2014.0,PA11,False,2017,Pakistan,2014.0
+KT764931,KT764931.1,703,"Beak and feather disease virus strain BFDV-MH-IR-C10-Rep-2014 putative replication protein (rep) gene, partial cds",Psittacula krameri,Iran,2014,2014.0,BFDV-MH-IR-C10-Rep-2014,False,2017,Iran,2014.0
+KT764932,KT764932.1,704,"Beak and feather disease virus strain BFDV-MH-IR-C27-Rep-2014 putative replication protein (rep) gene, partial cds",Psittacula krameri,Iran,2014,2014.0,BFDV-MH-IR-C27-Rep-2014,False,2017,Iran,2014.0
+OQ659411,OQ659411.1,700,"Beak and feather disease virus replication-associated protein (Rep) gene, partial cds",Zanda latirostris,Australia,2021,2021.0,,False,2024,Australia,2021.0
+JX221016,JX221016.1,1992,"Beak and feather disease virus isolate BFDV-S_PL-169_2006, complete genome",Aprosmictus erythropterus,Poland,09-Jan-2006,2006.0,BFDV-S_PL-169_2006,True,2013,Poland,2006.0
+JX221008,JX221008.1,1999,"Beak and feather disease virus isolate BFDV-J_PL-1233_2011, complete genome",Psittacula krameri,Poland,07-Jun-2011,2011.0,BFDV-J_PL-1233_2011,True,2013,Poland,2011.0
+JQ782197,JQ782197.1,1992,"Beak and feather disease virus isolate D134142, complete genome",Platycercus eximius,New Zealand,2009,2009.0,D134142,True,2012,New Zealand,2009.0
+JX221041,JX221041.1,1995,"Beak and feather disease virus isolate BFDV-J_PL-785_2009, complete genome",Psittacus erithacus,Poland,03-Feb-2009,2009.0,BFDV-J_PL-785_2009,True,2013,Poland,2009.0
+KF688552,KF688552.1,2002,"Beak and feather disease virus isolate BFDV_AUS_GSP_95_1444, complete genome",Psephotus chrysopterygius,Australia,1995,1995.0,BFDV_AUS_GSP_95_1444,True,2016,Australia,1995.0
+KX641236,KX641236.1,657,"Beak and feather disease virus isolate PA3 replication associated protein gene, partial cds",Psittacula krameri,Pakistan,01-Jun-2014,2014.0,PA3,False,2017,Pakistan,2014.0
+KT764929,KT764929.1,705,"Beak and feather disease virus strain BFDV-MH-IR-C5-Rep-2014 putative replication protein (rep) gene, partial cds",Psittacula krameri,Iran,2014,2014.0,BFDV-MH-IR-C5-Rep-2014,False,2017,Iran,2014.0
+KC980909,KC980909.1,2000,"Beak and feather disease virus isolate Taiwan-1, complete genome",Cacatua ophthalmica,Taiwan,Jan-2013,2013.0,Taiwan-1,True,2016,Taiwan,2013.0
+KP677593,KP677593.1,1988,"Beak and feather disease virus isolate Taiwan-19, complete genome",Melopsittacus undulatus,Taiwan,,,Taiwan-19,True,2016,Taiwan,2016.0
+MK803394,MK803394.1,1998,"Beak and feather disease virus isolate BFDV-S3, complete genome",Psittacus erithacus (African grey),Saudi Arabia,15-Feb-2018,2018.0,BFDV-S3,True,2019,Saudi Arabia,2018.0
+MK803396,MK803396.1,1998,"Beak and feather disease virus isolate BVDV-S5, complete genome",Psittacus erithacus,Saudi Arabia,26-Dec-2017,2017.0,BVDV-S5,True,2019,Saudi Arabia,2017.0
+MK803402,MK803402.1,1991,"Beak and feather disease virus isolate BVDV-S21, complete genome",Psittacus erithacus,Saudi Arabia,01-Oct-2017,2017.0,BVDV-S21,True,2019,Saudi Arabia,2017.0
+OL830412,OL830412.1,690,"Beak and feather disease virus isolate BDFV_NAM_33_MP_2021 replication-associated protein (rep) gene, partial cds",Pionus maximiliani,Namibia,26-Oct-2021,2021.0,BDFV_NAM_33_MP_2021,False,2022,Namibia,2021.0
+OL830417,OL830417.1,690,"Beak and feather disease virus isolate BDFV_NAM_51_BR_2021 replication-associated protein (rep) gene, partial cds",Psittacula krameri,Namibia,26-Oct-2021,2021.0,BDFV_NAM_51_BR_2021,False,2022,Namibia,2021.0
+ON013739,ON013739.1,691,"Beak and feather disease virus isolate 33 replicase (ORF1) gene, partial cds",Pionus maximiliani,Namibia,26-Oct-2021,2021.0,33,False,2022,Namibia,2021.0
+OP185949,OP185949.1,690,"Beak and feather disease virus isolate 17 replicase-associated protein (ORF1) gene, partial cds",Melopsittacus undulatus,Namibia,2022,2022.0,17,False,2023,Namibia,2022.0
+OM641686,OM641686.1,692,"Beak and feather disease virus isolate CVASU_BD_41 putative replication-associated protein (rep) gene, partial cds",Trichoglossus moluccanus (Rainbow lorikeet),Bangladesh,2021,2021.0,CVASU_BD_41,False,2022,Bangladesh,2021.0
+OM641687,OM641687.1,694,"Beak and feather disease virus isolate CVASU_BD_42 putative replication-associated protein (rep) gene, partial cds",Aratinga solstitialis (Sun parakeet),Bangladesh,2021,2021.0,CVASU_BD_42,False,2022,Bangladesh,2021.0
+OM641684,OM641684.1,696,"Beak and feather disease virus isolate CVASU_BD_38 putative replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus (Budgerigar),Bangladesh,2021,2021.0,CVASU_BD_38,False,2022,Bangladesh,2021.0
+HM748929,HM748929.1,1998,"Beak and feather disease virus isolate BFDV_ZA_PK_74d_2008, complete genome",Psittacula krameri,South Africa,2008,2008.0,BFDV_ZA_PK_74d_2008,True,2011,South Africa,2008.0
+HM748927,HM748927.1,1998,"Beak and feather disease virus isolate BFDV_ZA_PK_76f_2008, complete genome",Psittacula krameri,South Africa,2008,2008.0,BFDV_ZA_PK_76f_2008,True,2011,South Africa,2008.0
+HM748928,HM748928.1,1998,"Beak and feather disease virus isolate BFDV_ZA_PK_75A_2008, complete genome",Psittacula krameri,South Africa,2008,2008.0,BFDV_ZA_PK_75A_2008,True,2011,South Africa,2008.0
+KM887950,KM887950.1,1990,"Beak and feather disease virus isolate BFDV_AUS_BDG_2010_331, complete genome",Melopsittacus undulatus,Australia,2010,2010.0,BFDV_AUS_BDG_2010_331,True,2016,Australia,2010.0
+KM887951,KM887951.1,1990,"Beak and feather disease virus isolate BFDV_AUS_BDG_2010_332, complete genome",Melopsittacus undulatus,Australia,2010,2010.0,BFDV_AUS_BDG_2010_332,True,2016,Australia,2010.0
+KP677578,KP677578.1,2006,"Beak and feather disease virus isolate Taiwan-14, complete genome",Melopsittacus undulatus,Taiwan,,,Taiwan-14,True,2016,Taiwan,2016.0
+KF385430,KF385430.1,1996,"Beak and feather disease virus isolate BFDV_AUS_Galah_12_1474, complete genome",Eolophus roseicapillus,Australia,2012,2012.0,BFDV_AUS_Galah_12_1474,True,2014,Australia,2012.0
+KY189055,KY189055.1,1995,"Beak and feather disease virus isolate KAT-SCC-140219-VIC-2014, complete genome",Cacatua galerita,Australia,2014,2014.0,KAT-SCC-140219-VIC-2014,True,2018,Australia,2014.0
+KF385419,KF385419.1,1995,"Beak and feather disease virus isolate BFDV_AUS_SCC_W16710, complete genome",Cacatua galerita,Australia,2010,2010.0,BFDV_AUS_SCC_W16710,True,2014,Australia,2010.0
+KF385431,KF385431.1,1996,"Beak and feather disease virus isolate BFDV_AUS_Galah_04_065, complete genome",Eolophus roseicapillus,Australia,2004,2004.0,BFDV_AUS_Galah_04_065,True,2014,Australia,2004.0
+KF188694,KF188694.1,1993,"Beak and feather disease virus isolate CS12-0364-OBP-TAS-B10083, complete genome",Orange-bellied parrot,Australia,,,CS12-0364-OBP-TAS-B10083,True,2014,Australia,2014.0
+FJ685989,FJ685989.1,1994,"Beak and feather disease virus isolate BFDV17, complete genome",Cacatua moluccensis,Thailand,2006,2006.0,BFDV17,True,2009,Thailand,2006.0
+FJ685978,FJ685978.1,1995,"Beak and feather disease virus isolate BFDV6, complete genome",Cacatua sulphurea,Thailand,2005,2005.0,BFDV6,True,2009,Thailand,2005.0
+FJ685980,FJ685980.1,1995,"Beak and feather disease virus isolate BFDV8, complete genome",Ara ararauna,Thailand,2006,2006.0,BFDV8,True,2009,Thailand,2006.0
+OP039997,OP039997.1,697,"Beak and feather disease virus strain BFDV-3-SD-IR-Cackatoo replication-associated protein (rep) gene, partial cds",Cacatua galerita,Iran,2018,2018.0,BFDV3IR-Cackatoo,False,2023,Iran,2018.0
+JQ782206,JQ782206.1,1989,"Beak and feather disease virus isolate YCP19, complete genome",Cyanoramphus auriceps,New Zealand,Jan-2012,2012.0,YCP19,True,2012,New Zealand,2012.0
+JQ782208,JQ782208.1,1989,"Beak and feather disease virus isolate YCP20, complete genome",Cyanoramphus auriceps,New Zealand,Jan-2012,2012.0,YCP20,True,2012,New Zealand,2012.0
+AY450441,AY450441.1,2002,"Beak and feather disease virus isolate GJP1-ZA, complete genome",Poicephalus gulielmi,,,,GJP1-ZA,True,2004,,2004.0
+HM748926,HM748926.1,2000,"Beak and feather disease virus isolate BFDV_ZA_ER_78a_2008, complete genome",Eclectus roratus,South Africa,2008,2008.0,BFDV_ZA_ER_78a_2008,True,2011,South Africa,2008.0
+KU888685,KU888685.1,653,"Beak and feather disease virus isolate Coast_CI2 replication associated protein gene, partial cds",Psittacus timneh,Cote d'Ivoire,01-Oct-2015,2015.0,Coast_CI2,False,2017,Cote d'Ivoire,2015.0
+KU888687,KU888687.1,653,"Beak and feather disease virus isolate Coast_CI6 replication associated protein gene, partial cds",Psittacus timneh,Cote d'Ivoire,01-Oct-2015,2015.0,Coast_CI6,False,2017,Cote d'Ivoire,2015.0
+MK803395,MK803395.1,1991,"Beak and feather disease virus isolate BVDV-S4, complete genome",Psittacus erithacus,Saudi Arabia,16-Mar-2017,2017.0,BVDV-S4,True,2019,Saudi Arabia,2017.0
+KY189072,KY189072.1,1993,"Beak and feather disease virus isolate KAT-AKP-140619-VIC-2014, complete genome",Alisterus scapularis,Australia,2014,2014.0,KAT-AKP-140619-VIC-2014,True,2018,Australia,2014.0
+KR902641,KR902641.1,1992,"Beak and feather disease virus isolate KAT14-0766-AKP-VIC, complete genome",Alisterus scapularis,Australia,2014,2014.0,KAT14-0766-AKP-VIC,True,2017,Australia,2014.0
+KY189073,KY189073.1,1991,"Beak and feather disease virus isolate KAT-AKP-140611-VIC-2014, complete genome",Alisterus scapularis,Australia,2014,2014.0,KAT-AKP-140611-VIC-2014,True,2018,Australia,2014.0
+JX221013,JX221013.1,1997,"Beak and feather disease virus isolate BFDV-I_PL-13_2003, complete genome",Poicephalus robustus,Poland,08-Jul-2003,2003.0,BFDV-I_PL-13_2003,True,2013,Poland,2003.0
+JX221014,JX221014.1,2005,"Beak and feather disease virus isolate BFDV-I_PL-149_2005, complete genome",Melopsittacus undulatus,Poland,09-Nov-2005,2005.0,BFDV-I_PL-149_2005,True,2013,Poland,2005.0
+HM748921,HM748921.1,1994,"Beak and feather disease virus isolate BFDV_ZA_PGM_70A_2008, complete genome",Poicephalus gulielmi massaicus,South Africa,2008,2008.0,BFDV_ZA_PGM_70A_2008,True,2011,South Africa,2008.0
+MK803397,MK803397.1,1993,"Beak and feather disease virus isolate BVDV-S11, complete genome",Psittacus erithacus,Saudi Arabia,29-Apr-2017,2017.0,BVDV-S11,True,2019,Saudi Arabia,2017.0
+HM748919,HM748919.1,1991,"Beak and feather disease virus isolate BFDV_ZA_PGM_81A_2008, complete genome",Poicephalus gulielmi massaicus,South Africa,2008,2008.0,BFDV_ZA_PGM_81A_2008,True,2011,South Africa,2008.0
+HM748920,HM748920.1,1991,"Beak and feather disease virus isolate BFDV_ZA_PGM_80A_2008, complete genome",Poicephalus gulielmi massaicus,South Africa,2008,2008.0,BFDV_ZA_PGM_80A_2008,True,2011,South Africa,2008.0
+MH279594,MH279594.1,1991,"Beak and feather disease virus isolate SDpbfdvE0, complete genome",African Grey Parrots,China,2017,2017.0,SDpbfdvE0,True,2018,China,2017.0
+AY521236,AY521236.1,1991,"Beak and feather disease virus strain PEP01 putative replication-associated protein gene, complete cds; putative coat protein gene, partial cds; and unknown gene",Psittacus eritacus,Portugal,,,PEP01,False,2016,Portugal,2016.0
+JX221038,JX221038.1,1991,"Beak and feather disease virus isolate BFDV-I_PL-711_2008, complete genome",Psittacus erithacus,Poland,17-Nov-2008,2008.0,BFDV-I_PL-711_2008,True,2013,Poland,2008.0
+JX221039,JX221039.1,1991,"Beak and feather disease virus isolate BFDV-I_PL-717_2008, complete genome",Psittacus erithacus,Poland,17-Nov-2008,2008.0,BFDV-I_PL-717_2008,True,2013,Poland,2008.0
+JX221042,JX221042.1,1994,"Beak and feather disease virus isolate BFDV-I_PL-830_2009, complete genome",Alexandrine parakeet,Poland,26-Mar-2009,2009.0,BFDV-I_PL-830_2009,True,2013,Poland,2009.0
+OP039999,OP039999.1,697,"Beak and feather disease virus strain BFDV-5-SD-IR-Budgerigar replication-associated protein (rep) gene, partial cds",Melopsittacus undulatus,Iran,2019,2019.0,BFDV5IR-Budgerigar,False,2023,Iran,2019.0
+JX221024,JX221024.1,1988,"Beak and feather disease virus isolate BFDV-Q_PL-418_2007, complete genome",Forpus coelestis,Poland,Sep-2007,2007.0,BFDV-Q_PL-418_2007,True,2013,Poland,2007.0
+OL362209,OL362209.1,1992,"Beak and feather disease virus isolate PBFDV/ringneck/MG-Brazil/C531-17/2017, complete genome",Psittacula krameri,Brazil,2017,2017.0,PBFDV/ringneck/MG-Brazil/C531-17/2017,True,2022,Brazil,2017.0
+JX221001,JX221001.1,2003,"Beak and feather disease virus isolate BFDV-T_PL-1032_2010, complete genome",Psittacula krameri,Poland,12-Mar-2010,2010.0,BFDV-T_PL-1032_2010,True,2013,Poland,2010.0
+JX221011,JX221011.1,2003,"Beak and feather disease virus isolate BFDV-T_PL-1288_2011, complete genome",Psittacula krameri,Poland,24-Nov-2011,2011.0,BFDV-T_PL-1288_2011,True,2013,Poland,2011.0
+HM748935,HM748935.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_50A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_50A_2008,True,2011,South Africa,2008.0
+ON191580,ON191580.1,870,"Beak and feather disease virus strain NP-89 replication associated protein (rep) gene, complete cds",Eclectus roratus,Brazil,2013,2013.0,NP-89,False,2023,Brazil,2013.0
+HM748918,HM748918.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_60A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_60A_2008,True,2011,South Africa,2008.0
+HM748930,HM748930.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_61A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_61A_2008,True,2011,South Africa,2008.0
+HM748931,HM748931.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PE_55A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PE_55A_2008,True,2011,South Africa,2008.0
+HM748932,HM748932.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_54b_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_54b_2008,True,2011,South Africa,2008.0
+HM748933,HM748933.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_54A_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_54A_2008,True,2011,South Africa,2008.0
+HM748938,HM748938.1,1999,"Beak and feather disease virus isolate BFDV_ZA_PR_41a_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_PR_41a_2008,True,2011,South Africa,2008.0
+HM748939,HM748939.1,1999,"Beak and feather disease virus isolate BFDV_ZA_38A_PR_2008, complete genome",Poicephalus robustus,South Africa,2008,2008.0,BFDV_ZA_38A_PR_2008,True,2011,South Africa,2008.0
+DQ397816,DQ397816.1,870,"Beak and feather disease virus isolate HHP1-ZA replication-associated protein (V1) gene, complete cds",,,,,HHP1-ZA,False,2006,,2006.0
+AY450439,AY450439.1,2002,"Beak and feather disease virus isolate RP1-ZA, complete genome",Poicephalus rueppellii,,,,RP1-ZA,True,2004,,2004.0
+AY450438,AY450438.1,2002,"Beak and feather disease virus isolate CPA7, complete genome",Poicephalus robustus,,,,CPA7,True,2004,,2004.0
+AY450437,AY450437.1,2002,"Beak and feather disease virus isolate CPA8-ZA, complete genome",Poicephalus robustus,,,,CPA8-ZA,True,2004,,2004.0
+AY450440,AY450440.1,2002,"Beak and feather disease virus isolate ARB4-ZA, complete genome",Poicephalus rufiventris,,,,ARB4-ZA,True,2004,,2004.0
+KM409545,KM409545.1,717,"Beak and feather disease virus isolate KP-A14-036 putative replication-associated protein gene, partial cds",Ara ararauna (blue and yellow macaw),South Korea,16-Apr-2014,2014.0,KP-A14-036,False,2014,South Korea,2014.0
+OM525657,OM525657.1,691,"Beak and feather disease virus isolate CVASU_BD_28 putative replication-associated protein (rep) gene, partial cds",Amazona festiva (Festive Amazon),Bangladesh,2021,2021.0,CVASU_BD_28,False,2022,Bangladesh,2021.0
+OM525658,OM525658.1,689,"Beak and feather disease virus isolate CVASU_BD_31 putative replication-associated protein (rep) gene, partial cds",Ara ararauna (Blue-and-yellow macaw),Bangladesh,2021,2021.0,CVASU_BD_31,False,2022,Bangladesh,2021.0
+AY521237,AY521237.1,2000,"Beak and feather disease virus strain PEG07 putative replication-associated protein gene, complete cds; putative coat protein gene, partial cds; and unknown genes",Psittacus eritacus,Germany,,,PEG07,False,2016,Germany,2016.0
+KF688548,KF688548.1,1996,"Beak and feather disease virus isolate BFDV_AUS_RNP_B13_1996, complete genome",Barnardius zonarius semitorquatus,Australia,1996,1996.0,BFDV_AUS_RNP_B13_1996,True,2016,Australia,1996.0
+KF688549,KF688549.1,1996,"Beak and feather disease virus isolate BFDV_AUS_RNP_B14_1996, complete genome",Barnardius zonarius semitorquatus,Australia,1996,1996.0,BFDV_AUS_RNP_B14_1996,True,2016,Australia,1996.0
+KF688550,KF688550.1,1996,"Beak and feather disease virus isolate BFDV_AUS_RNP_B15_1996, complete genome",Barnardius zonarius semitorquatus,Australia,1996,1996.0,BFDV_AUS_RNP_B15_1996,True,2016,Australia,1996.0
+JQ782203,JQ782203.1,1989,"Beak and feather disease virus isolate YCP24, complete genome",Cyanoramphus auriceps,New Zealand,Jan-2012,2012.0,YCP24,True,2012,New Zealand,2012.0
+JQ782201,JQ782201.1,1989,"Beak and feather disease virus isolate YCP01-11, complete genome",Cyanoramphus auriceps,New Zealand,Nov-2011,2011.0,YCP01-11,True,2012,New Zealand,2011.0
+JQ782205,JQ782205.1,1989,"Beak and feather disease virus isolate YCP21, complete genome",Cyanoramphus auriceps,New Zealand,Jan-2012,2012.0,YCP21,True,2012,New Zealand,2012.0
+JQ782207,JQ782207.1,1989,"Beak and feather disease virus isolate YCP25, complete genome",Cyanoramphus auriceps,New Zealand,Jan-2012,2012.0,YCP25,True,2012,New Zealand,2012.0
+JQ782202,JQ782202.1,1987,"Beak and feather disease virus isolate YCP28F, complete genome",Cyanoramphus auriceps,New Zealand,Jan-2012,2012.0,YCP28F,True,2012,New Zealand,2012.0
+JQ782204,JQ782204.1,1989,"Beak and feather disease virus isolate YCP23, complete genome",Cyanoramphus auriceps,New Zealand,Jan-2012,2012.0,YCP23,True,2012,New Zealand,2012.0
+KM887947,KM887947.1,1990,"Beak and feather disease virus isolate BFDV_AUS_BDG_2010_320, complete genome",Melopsittacus undulatus,Australia,2010,2010.0,BFDV_AUS_BDG_2010_320,True,2016,Australia,2010.0
+AF311298,AF311298.1,1993,"Beak and feather disease virus natural-host Eolophus roseicapillus, complete genome",Eolophus roseicapillus,Australia: Western Australia,,,,True,2001,Australia,2001.0
+AF311302,AF311302.1,1993,"Beak and feather disease virus natural-host Cacatua galerita, complete genome",Cacatua galerita,Australia: Western Australia,,,,True,2001,Australia,2001.0
+NC_001944,NC_001944.1,1993,"Beak and feather disease virus, complete genome",,,,,,True,2018,,2018.0
+KT168343,KT168343.1,1996,"Beak and feather disease virus isolate CS15-0726-016-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-016-OBP-TAS,True,2017,Australia,2015.0
+KT168337,KT168337.1,1996,"Beak and feather disease virus isolate CS15-0726-003-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-003-OBP-TAS,True,2017,Australia,2015.0
+KT168340,KT168340.1,1996,"Beak and feather disease virus isolate CS15-0726-009-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-009-OBP-TAS,True,2017,Australia,2015.0
+KT168342,KT168342.1,1996,"Beak and feather disease virus isolate CS15-0726-014-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-014-OBP-TAS,True,2017,Australia,2015.0
+KT168345,KT168345.1,1996,"Beak and feather disease virus isolate CS15-0726-019-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-019-OBP-TAS,True,2017,Australia,2015.0
+KT168346,KT168346.1,1996,"Beak and feather disease virus isolate CS15-0726-021-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-021-OBP-TAS,True,2017,Australia,2015.0
+KT168349,KT168349.1,1996,"Beak and feather disease virus isolate CS15-0726-026-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-026-OBP-TAS,True,2017,Australia,2015.0
+KT168339,KT168339.1,1996,"Beak and feather disease virus isolate CS15-0726-008-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-008-OBP-TAS,True,2017,Australia,2015.0
+KT168344,KT168344.1,1996,"Beak and feather disease virus isolate CS15-0726-018-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-018-OBP-TAS,True,2017,Australia,2015.0
+KT168348,KT168348.1,1996,"Beak and feather disease virus isolate CS15-0726-024-OBP-TAS, complete genome",Neophema chrysogaster,Australia,2015,2015.0,CS15-0726-024-OBP-TAS,True,2017,Australia,2015.0
+OR710295,OR710295.1,690,"Beak and feather disease virus isolate BFDV_AUS_RG_CS230624_RGG35 replication-associated protein (Rep) gene, partial cds",Erythrotriorchis radiatus,Australia,2021,2021.0,BFDV_AUS_RG_CS230624_RGG35,False,2024,Australia,2021.0
+KY189068,KY189068.1,1992,"Beak and feather disease virus isolate KAT-AKP-141293-VIC-2014, complete genome",Alisterus scapularis,Australia,2014,2014.0,KAT-AKP-141293-VIC-2014,True,2018,Australia,2014.0
+KY189069,KY189069.1,1997,"Beak and feather disease virus isolate KAT-AKP-141214-VIC-2014, complete genome",Alisterus scapularis,Australia,2014,2014.0,KAT-AKP-141214-VIC-2014,True,2018,Australia,2014.0
+KY189070,KY189070.1,1993,"Beak and feather disease virus isolate KAT-AKP-140838-VIC-2014, complete genome",Alisterus scapularis,Australia,2014,2014.0,KAT-AKP-140838-VIC-2014,True,2018,Australia,2014.0
+KY189071,KY189071.1,1993,"Beak and feather disease virus isolate KAT-AKP-140670-VIC-2014, complete genome",Alisterus scapularis,Australia,2014,2014.0,KAT-AKP-140670-VIC-2014,True,2018,Australia,2014.0
+MK803404,MK803404.1,1968,"Beak and feather disease virus isolate BVDV-S25 putative replication-associated protein gene, complete cds; and nonfunctional capsid protein gene, partial sequence",Psittacus erithacus,Saudi Arabia,02-May-2018,2018.0,BVDV-S25,False,2019,Saudi Arabia,2018.0
+MK803405,MK803405.1,2000,"Beak and feather disease virus isolate BVDV-S26, complete genome",Indian parakeet,Saudi Arabia,02-May-2018,2018.0,BVDV-S26,True,2019,Saudi Arabia,2018.0
+MK803406,MK803406.1,2000,"Beak and feather disease virus isolate BVDV-S27, complete genome",Nymphicus hollandicus (cockatiel),Saudi Arabia,02-May-2018,2018.0,BVDV-S27,True,2019,Saudi Arabia,2018.0
+MK803407,MK803407.1,2000,"Beak and feather disease virus isolate BVDV-S28, complete genome",Agapornis fischeri,Saudi Arabia,02-May-2018,2018.0,BVDV-S28,True,2019,Saudi Arabia,2018.0
+KT764935,KT764935.1,707,"Beak and feather disease virus strain BFDV-MH-IR-C66-Rep-2014 putative replication protein (rep) gene, partial cds",Psittacus erithacus,Iran,2014,2014.0,BFDV-MH-IR-C66-Rep-2014,False,2017,Iran,2014.0
+KT764930,KT764930.1,699,"Beak and feather disease virus strain BFDV-MH-IR-C9-Rep-2014 putative replication protein (rep) gene, partial cds",Psittacus erithacus,Iran,2014,2014.0,BFDV-MH-IR-C9-Rep-2014,False,2017,Iran,2014.0
+MH310937,MH310937.1,1991,"Beak and feather disease virus isolate PBFDV-SH1163, complete genome",Psittacus erithacus,China,05-Aug-2015,2015.0,PBFDV-SH1163,True,2018,China,2015.0
+KU888686,KU888686.1,653,"Beak and feather disease virus isolate Coast_CI5 replication associated protein gene, partial cds",Psittacus timneh,Cote d'Ivoire,01-Oct-2015,2015.0,Coast_CI5,False,2017,Cote d'Ivoire,2015.0
+KU888688,KU888688.1,653,"Beak and feather disease virus isolate Coast_CI7 replication associated protein gene, partial cds",Psittacus timneh,Cote d'Ivoire,01-Oct-2015,2015.0,Coast_CI7,False,2017,Cote d'Ivoire,2015.0
+MN114122,MN114122.1,1993,"Beak and feather disease virus isolate CS17-0436, complete genome",Eudyptula minor,Australia,2017,2017.0,CS17-0436,True,2020,Australia,2017.0
+DQ397818,DQ397818.1,1987,"Beak and feather disease virus isolate CPA10-ZA, complete genome",,,,,CPA10-ZA,True,2006,,2006.0
+KF499132,KF499132.1,717,"Beak and feather disease virus isolate 04-604-QD2-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,2004,2004.0,04-604-QD2-GGC-WA,False,2014,Australia,2004.0
+KF385417,KF385417.1,1995,"Beak and feather disease virus isolate BFDV_AUS_SCC_13_0679_001, complete genome",Cacatua galerita,Australia,2013,2013.0,BFDV_AUS_SCC_13_0679_001,True,2014,Australia,2013.0
+KF385416,KF385416.1,2001,"Beak and feather disease virus isolate BFDV_AUS_SCC_13_0318, complete genome",Cacatua galerita,Australia,2013,2013.0,BFDV_AUS_SCC_13_0318,True,2014,Australia,2013.0
+KF499127,KF499127.1,717,"Beak and feather disease virus isolate 96-1404-QC3-GGC-WA putative replication-associated protein (Rep) gene, partial cds",Callocephalon fimbriatum,Australia,1996,1996.0,96-1404-QC3-GGC-WA,False,2014,Australia,1996.0
+KF385418,KF385418.1,1995,"Beak and feather disease virus isolate BFDV_AUS_SCC_W0610, complete genome",Cacatua galerita,Australia,2010,2010.0,BFDV_AUS_SCC_W0610,True,2014,Australia,2010.0
+KY189054,KY189054.1,1995,"Beak and feather disease virus isolate KAT-SCC-140529-VIC-2014, complete genome",Cacatua galerita,Australia,2014,2014.0,KAT-SCC-140529-VIC-2014,True,2018,Australia,2014.0
+KT008266,KT008266.1,1996,"Beak and feather disease virus isolate CS13-2703-01-SCC-NSW, complete genome",Cacatua galerita,Australia,2013,2013.0,CS13-2703-01-SCC-NSW,True,2016,Australia,2013.0
+KF385414,KF385414.1,1991,"Beak and feather disease virus isolate BFDV_AUS_SCC_06_854, complete genome",Cacatua galerita,Australia,2006,2006.0,BFDV_AUS_SCC_06_854,True,2014,Australia,2006.0
+AF311300,AF311300.1,1995,"Beak and feather disease virus natural-host Cacatua leabeateri, complete genome",Cacatua leabeateri,Australia: Western Australia,,,,True,2001,Australia,2001.0
+KF495581,KF495581.1,685,"Beak and feather disease virus isolate BFDV_AUS_04_859 putative replication-associated protein (Rep) gene, partial cds",Cacatua galerita,Australia,2004,2004.0,BFDV_AUS_04_859,False,2016,Australia,2004.0
+KF385413,KF385413.1,1996,"Beak and feather disease virus isolate BFDV_AUS_SCC_05_746, complete genome",Cacatua galerita,Australia,2005,2005.0,BFDV_AUS_SCC_05_746,True,2014,Australia,2005.0
+KF499135,KF499135.1,717,"Beak and feather disease virus isolate 05-746-QF2-SCC-VIC putative replication-associated protein (Rep) gene, partial cds",Cacatua galerita,Australia,2005,2005.0,05-746-QF2-SCC-VIC,False,2014,Australia,2005.0
+GU015012,GU015012.1,1990,"Beak and feather disease virus isolate BFDV1, complete genome",Psittacus erithacus,Thailand,2005,2005.0,BFDV1,True,2010,Thailand,2005.0
+GU015014,GU015014.1,1990,"Beak and feather disease virus isolate BFDV3, complete genome",Psittacula eupatria,Thailand,2006,2006.0,BFDV3,True,2010,Thailand,2006.0
+GU015019,GU015019.1,1990,"Beak and feather disease virus isolate BFDV11, complete genome",Eclectus roratus,Thailand,2006,2006.0,BFDV11,True,2010,Thailand,2006.0
+GU015021,GU015021.1,1990,"Beak and feather disease virus isolate BFDV14, complete genome",Ara chloropterus,Thailand,2009,2009.0,BFDV14,True,2010,Thailand,2009.0
+FJ685979,FJ685979.1,1993,"Beak and feather disease virus isolate BFDV7, complete genome",Cacatua sulphurea,Thailand,2005,2005.0,BFDV7,True,2009,Thailand,2005.0
+MG257487,MG257487.1,1991,"Beak and feather disease virus isolate PBFDV2017, complete genome",Psittacus erithacus,China,22-Jun-2016,2016.0,PBFDV2017,True,2017,China,2016.0
+KF688553,KF688553.1,1999,"Beak and feather disease virus isolate BFDV_AUS_HP_96_3015, complete genome",Psephotus dissimilis,Australia,1996,1996.0,BFDV_AUS_HP_96_3015,True,2016,Australia,1996.0
+JX221006,JX221006.1,1999,"Beak and feather disease virus isolate BFDV-J_PL-1229_2010, complete genome",Platycercus elegans,Poland,Nov-2011,2011.0,BFDV-J_PL-1229_2010,True,2013,Poland,2011.0
+KF723392,KF723392.1,1998,"Beak and feather disease virus isolate 10IT11, complete genome",Psittacus erithacus,Italy,2011,2011.0,10IT11,True,2014,Italy,2011.0
+KX449321,KX449321.1,1995,"Beak and feather disease virus isolate CS15-3981-RCP-WA-2015 putative replication-associated protein (Rep) and capsid protein (Cap) genes, complete cds",Purpureicephalus spurius,Australia,2015,2015.0,CS15-3981-RCP-WA-2015,False,2016,Australia,2015.0
+KF385399,KF385399.1,1999,"Beak and feather disease virus isolate BFDV_AUS_RTBC_13_1780_052, complete genome",Calyptorhynchus banksii,Australia,2013,2013.0,BFDV_AUS_RTBC_13_1780_052,True,2014,Australia,2013.0
+KF499120,KF499120.1,717,"Beak and feather disease virus isolate 13-1780-052-QA2-RTBC-WA putative replication-associated protein (Rep) gene, partial cds",Calyptorhynchus banksii,Australia,2013,2013.0,13-1780-052-QA2-RTBC-WA,False,2014,Australia,2013.0
+KF499121,KF499121.1,1213,"Beak and feather disease virus isolate 13-1780-052-QA3-RTBC-WA putative replication-associated protein (Rep) gene, partial cds",Calyptorhynchus banksii,Australia,2013,2013.0,13-1780-052-QA3-RTBC-WA,False,2014,Australia,2013.0
+PP329296,PP329296.1,673,"Beak and feather disease virus strain 8/Ahvaz/2024 replication-associated protein gene, partial cds",love bird,Iran: Ahvaz,2024,2024.0,8/Ahvaz/2024,False,2024,Iran,2024.0
+PP329289,PP329289.1,681,"Beak and feather disease virus strain 1/Ahvaz/2024 replication-associated protein gene, partial cds",love bird,Iran,2024,2024.0,1/Ahvaz/2024,False,2024,Iran,2024.0
+PP329294,PP329294.1,678,"Beak and feather disease virus strain 6/Ahvaz/2024 replication-associated protein gene, partial cds",budgerigar,Iran: Ahvaz,2024,2024.0,6/Ahvaz/2024,False,2024,Iran,2024.0
+PP329290,PP329290.1,678,"Beak and feather disease virus strain 2/Ahvaz/2024 replication-associated protein gene, partial cds",cockatiel,Iran,2024,2024.0,2/Ahvaz/2024,False,2024,Iran,2024.0
+PP329297,PP329297.1,667,"Beak and feather disease virus strain 9/Ahvaz/2024 replication-associated protein gene, partial cds",cockatiel,Iran: Ahvaz,2024,2024.0,9/Ahvaz/2024,False,2024,Iran,2024.0
+OP185957,OP185957.1,690,"Beak and feather disease virus isolate 119 replicase-associated protein (ORF1) gene, partial cds",Poicephalus sp.,Namibia,2021,2021.0,119,False,2023,Namibia,2021.0
+OP039998,OP039998.1,694,"Beak and feather disease virus strain BFDV-4-SD-IR-Ring neck parakeet replication-associated protein (rep) gene, partial cds",Psittacula krameri,Iran,2019,2019.0,BFDV4IR-Ring neck parakeet,False,2023,Iran,2019.0
+MK803400,MK803400.1,1998,"Beak and feather disease virus isolate BVDV-S19, complete genome",Melopsittacus undulatus,Saudi Arabia,01-Oct-2017,2017.0,BVDV-S19,True,2019,Saudi Arabia,2017.0
+JX221015,JX221015.1,1992,"Beak and feather disease virus isolate BFDV-S_PL-168_2006, complete genome",Aprosmictus erythropterus,Poland,09-Jan-2006,2006.0,BFDV-S_PL-168_2006,True,2013,Poland,2006.0
+EU810207,EU810207.1,1998,"Beak and feather disease virus isolate PT08, complete genome",Psittacus erithacus,Portugal,2008,2008.0,PT08,True,2010,Portugal,2008.0
+MK803403,MK803403.1,1998,"Beak and feather disease virus isolate BVDV-S24, complete genome",Psittacus erithacus,Saudi Arabia,01-Oct-2017,2017.0,BVDV-S24,True,2019,Saudi Arabia,2017.0
+MK803398,MK803398.1,1998,"Beak and feather disease virus isolate BVDV-S12, complete genome",Psittacus erithacus,Saudi Arabia,04-May-2017,2017.0,BVDV-S12,True,2019,Saudi Arabia,2017.0
+KF723391,KF723391.1,1998,"Beak and feather disease virus isolate 1IT08, complete genome",Psittacus erithacus,Italy,2008,2008.0,1IT08,True,2014,Italy,2008.0
+KJ413143,KJ413143.1,717,"Beak and feather disease virus isolate BFDV_RS replicase-associated protein (rep) gene, partial cds",,Serbia,2013,2013.0,BFDV_RS,False,2014,Serbia,2013.0
+KF723390,KF723390.1,1998,"Beak and feather disease virus isolate 9IT11, complete genome",Psittacus erithacus,Italy,2011,2011.0,9IT11,True,2014,Italy,2011.0
+JX221035,JX221035.1,1998,"Beak and feather disease virus isolate BFDV-J_PL-683_2008, complete genome",Platycercus eximius,Poland,15-Oct-2008,2008.0,BFDV-J_PL-683_2008,True,2013,Poland,2008.0
+JX221037,JX221037.1,1997,"Beak and feather disease virus isolate BFDV-J_PL-688_2008, complete genome",Psittacus erithacus,Poland,15-Oct-2008,2008.0,BFDV-J_PL-688_2008,True,2013,Poland,2008.0

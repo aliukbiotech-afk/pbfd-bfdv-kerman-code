@@ -1,0 +1,193 @@
+IQ-TREE 3.1.4 built Sep 29 2026
+
+Input file name: /content/pbfd/results/selection/subset_codon_aln.fasta
+Type of analysis: tree reconstruction
+Random seed number: 20261103
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 41 sequences with 651 nucleotide sites
+Number of constant sites: 526 (= 80.7988% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 526 (= 80.7988% of all sites)
+Number of parsimony informative sites: 82
+Number of distinct site patterns: 123
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 1.0572
+  A-G: 1.5334
+  A-T: 0.7404
+  C-G: 0.8884
+  C-T: 4.8598
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2508
+  pi(C) = 0.2149
+  pi(G) = 0.3042
+  pi(T) = 0.2301
+
+Rate matrix Q:
+
+  A   -0.7383    0.1941    0.3986    0.1456
+  C    0.2266    -1.413    0.2309    0.9557
+  G    0.3287    0.1631   -0.6885    0.1967
+  T    0.1587    0.8924    0.2599    -1.311
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.1363
+
+ Category  Relative_rate  Proportion
+  1         2.093e-05      0.25
+  2         0.006771       0.25
+  3         0.2001         0.25
+  4         3.793          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2490.4236 (s.e. 138.4131)
+Unconstrained log-likelihood (without tree): -1637.4276
+Number of free parameters (#branches + #model parameters): 88
+Akaike information criterion (AIC) score: 5156.8472
+Corrected Akaike information criterion (AICc) score: 5184.7191
+Bayesian information criterion (BIC) score: 5550.9560
+
+Total tree length (sum of branch lengths): 0.4944
+Sum of internal branch lengths: 0.2074 (41.9575% of tree length)
+
+WARNING: 9 near-zero internal branches (<0.0015) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'PX634653_Kerman_Pb24' is drawn at root
+
++--PX634653_Kerman_Pb24
+|
+|                                                          +---------PX634662_Kerman_Pb22
+|                                                       +--|
+|                                                       |  +-----OP039999
+|                                                    +--|
+|                                                    |  +---KT764932
+|                                                 +--|
+|                                                 |  |  +--KT764931
+|                                                 |  +--|
+|                                                 |     |  +------------------KT764929
+|                                                 |     +--|
+|                                                 |        +----KX641233
+|                                            +----|
+|                                            |    +---KX641239
+|                                      +-----|
+|                                      |     +-----------KT764933
+|                                   +--|
+|                                   |  |               +--OP040000
+|                                   |  +---------------|
+|                                   |                  +**OP040001
+|                                +--|
+|                                |  |             +------KT764935
+|                                |  +-------------|
+|                                |                +--KT764930
+|                             +--|
+|                             |  +------------------------OP039997
+|                    +--------|
+|                    |        |                                   +**PX634660_Kerman_Pb23
+|                    |        |                              +----|
+|                    |        |                              |    +------PX634659_Kerman_Pb64
+|                    |        |                           +--|
+|                    |        |                           |  +--MK387075
+|                    |        |                        +**|
+|                    |        |                        |  +--KT764934
+|                    |        |                     +**|
+|                    |        |                     |  +**KT764927
+|                    |        |                  +--|
+|                    |        |                  |  +--KT764926
+|                    |        |        +---------|
+|                    |        |        |         +**KT764928
+|                    |        +--------|
+|                    |                 +--------OP039995
+|                 +--|
+|                 |  |  +**JX221037
+|                 |  +--|
+|                 |     +--JX221035
+|              +**|
+|              |  +--KF723390
+|           +--|
+|           |  +--KJ413143
+|        +--|
+|        |  +--------PX634661_Kerman_Pb28
+|     +**|
+|     |  |            +--PP329296
+|     |  |         +--|
+|     |  |         |  |  +**PP329289
+|     |  |         |  +**|
+|     |  |         |     +**PP329294
+|     |  +---------|
+|     |            |  +**PP329290
+|     |            +**|
+|     |               +**PP329297
+|  +--|
+|  |  |     +--MK803403
+|  |  |  +--|
+|  |  |  |  +-----MK803400
+|  |  +**|
+|  |     +---MK803398
++**|
+|  |  +-----PX634654_Kerman_Pb25
+|  +**|
+|     |  +--PX634655_Kerman_Pb30
+|     +--|
+|        +**PX634658_Kerman_Pb34
+|
+|       +--PX634656_Kerman_S7
+|  +----|
+|  |    +--PX634657_Kerman_S27
++--|
+   +----OP039998
+
+Tree in newick format:
+
+(PX634653_Kerman_Pb24:0.0053450609,((((((((((((((((PX634662_Kerman_Pb22:0.0170121879,OP039999:0.0101212754):0.0037561690,KT764932:0.0064008659):0.0049764038,(KT764931:0.0054236881,(KT764929:0.0308333025,KX641233:0.0086129328):0.0047620960):0.0034190880):0.0057582712,KX641239:0.0071184766):0.0086047605,KT764933:0.0203069253):0.0106329281,(OP040000:0.0017512088,OP040001:0.0000010000):0.0253436907):0.0030763256,(KT764935:0.0124893168,KT764930:0.0041277510):0.0220394431):0.0026312854,OP039997:0.0405127517):0.0034324056,(((((((PX634660_Kerman_Pb23:0.0000010000,PX634659_Kerman_Pb64:0.0123934238):0.0089392303,MK387075:0.0016706900):0.0035178765,KT764934:0.0034979355):0.0000026392,KT764927:0.0000010000):0.0000010000,KT764926:0.0017256776):0.0017187872,KT764928:0.0000023778):0.0168136583,OP039995:0.0144907814):0.0148731817):0.0141862153,(JX221037:0.0000010000,JX221035:0.0052810571):0.0034509733):0.0018208246,KF723390:0.0017488702):0.0000010000,KJ413143:0.0052865746):0.0017500864,PX634661_Kerman_Pb28:0.0146770534):0.0017583559,((PP329296:0.0017573865,(PP329289:0.0000010000,PP329294:0.0000010000):0.0000010000):0.0017566148,(PP329290:0.0000010000,PP329297:0.0000010000):0.0000010000):0.0167230309):0.0000010000,((MK803403:0.0053789204,MK803400:0.0109337452):0.0017551721,MK803398:0.0070906359):0.0000010000):0.0017646269,(PX634654_Kerman_Pb25:0.0109856441,(PX634655_Kerman_Pb30:0.0017563706,PX634658_Kerman_Pb34:0.0000010000):0.0053410430):0.0000010000):0.0000025117,((PX634656_Kerman_S7:0.0054314515,PX634657_Kerman_S27:0.0036509060):0.0086110732,OP039998:0.0091350057):0.0042133002);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /content/pbfd/results/selection/subset.treefile -m "GTR{1.05723,1.53338,0.740444,0.88843,4.8598}+F{0.250843,0.214874,0.304159,0.230124}+G4{0.136251}" --length 651
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /content/pbfd/results/selection/subset_codon_aln.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /content/pbfd/results/selection/subset_codon_aln.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Nov  8 18:48:22 2026
+Total CPU time used: 12.8831 seconds (0h:0m:12s)
+Total wall-clock time used: 10.273 seconds (0h:0m:10s)
+

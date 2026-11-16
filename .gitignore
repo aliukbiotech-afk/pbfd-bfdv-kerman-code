@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.ckp.gz
+.venv/
+node_modules/
+*.lock

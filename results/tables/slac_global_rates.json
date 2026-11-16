@@ -1,0 +1,18 @@
+{
+ "Global MG94xREV": {
+  "non-synonymous/synonymous rate ratio for *test*": [
+   [
+    0.1395583431840152,
+    1
+   ]
+  ]
+ },
+ "Nucleotide GTR": {
+  "Substitution rate from nucleotide A to nucleotide C": 0.7540553214361754,
+  "Substitution rate from nucleotide A to nucleotide G": 1,
+  "Substitution rate from nucleotide A to nucleotide T": 0.4783567108770428,
+  "Substitution rate from nucleotide C to nucleotide G": 0.6409400788267238,
+  "Substitution rate from nucleotide C to nucleotide T": 3.242586969657176,
+  "Substitution rate from nucleotide G to nucleotide T": 0.638564254631141
+ }
+}

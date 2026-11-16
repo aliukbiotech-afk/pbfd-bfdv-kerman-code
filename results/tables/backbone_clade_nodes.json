@@ -1,0 +1,17 @@
+{
+  "GI-d": {
+    "size": 14,
+    "purity": 0.9285714285714286,
+    "recall": 1.0
+  },
+  "GI-e": {
+    "size": 7,
+    "purity": 1.0,
+    "recall": 1.0
+  },
+  "GI-f": {
+    "size": 6,
+    "purity": 1.0,
+    "recall": 1.0
+  }
+}

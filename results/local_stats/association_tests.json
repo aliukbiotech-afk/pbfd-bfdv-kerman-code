@@ -1,0 +1,148 @@
+{
+  "sex_vs_positivity": {
+    "test": "Fisher exact (two-sided)",
+    "table": {
+      "0": {
+        "female": 46,
+        "male": 47
+      },
+      "1": {
+        "female": 22,
+        "male": 21
+      }
+    },
+    "odds_ratio": 0.9342359767891683,
+    "p": 1.0
+  },
+  "species_vs_positivity": {
+    "test": "Monte Carlo exact test of independence (X^2 statistic, margins fixed)",
+    "chi2": 7.353374677655062,
+    "p": 0.28971710282897173,
+    "cramers_v": 0.23252727034338586,
+    "min_expected": 0.9485294117647058,
+    "pct_cells_expected_lt5": 50.0,
+    "table": {
+      "0": {
+        "SP01": 48,
+        "SP02": 19,
+        "SP03": 14,
+        "SP04": 5,
+        "SP05": 2,
+        "SP06": 2,
+        "SP07": 3
+      },
+      "1": {
+        "SP01": 25,
+        "SP02": 2,
+        "SP03": 6,
+        "SP04": 5,
+        "SP05": 2,
+        "SP06": 1,
+        "SP07": 2
+      }
+    }
+  },
+  "species_collapsed_vs_positivity": {
+    "test": "as above, groups n<10 collapsed",
+    "chi2": 7.12211686320145,
+    "p": 0.12820871791282087,
+    "cramers_v": 0.22884166217511506,
+    "min_expected": 3.161764705882353,
+    "pct_cells_expected_lt5": 20.0,
+    "table": {
+      "0": {
+        "Other(<10)": 7,
+        "SP01": 48,
+        "SP02": 19,
+        "SP03": 14,
+        "SP04": 5
+      },
+      "1": {
+        "Other(<10)": 5,
+        "SP01": 25,
+        "SP02": 2,
+        "SP03": 6,
+        "SP04": 5
+      }
+    }
+  },
+  "thesis_replication_species_vs_band4": {
+    "test": "species x band (None/Low/Moderate/High) - replicates thesis Table 4-1",
+    "chi2": 54.512260343792335,
+    "p_asymptotic": 2.2131575682242805e-07,
+    "p_mc": 0.0014199858001419986,
+    "cramers_v": 0.44767479474745697,
+    "min_expected": 0.0661764705882353,
+    "pct_cells_expected_lt5": 76.19047619047619
+  },
+  "intensity_among_positives_vs_species_group": {
+    "test": "Monte Carlo exact test, positives only (Low/Moderate/High)",
+    "n": 43,
+    "chi2": 34.05361111111111,
+    "p": 0.0067099329006709936,
+    "cramers_v": 0.6292632376217621,
+    "min_expected": 0.06976744186046512,
+    "pct_cells_expected_lt5": 90.47619047619048,
+    "table": {
+      "High": {
+        "SP01": 1,
+        "SP02": 0,
+        "SP03": 0,
+        "SP04": 0,
+        "SP05": 2,
+        "SP06": 0,
+        "SP07": 0
+      },
+      "Low": {
+        "SP01": 13,
+        "SP02": 1,
+        "SP03": 4,
+        "SP04": 5,
+        "SP05": 0,
+        "SP06": 0,
+        "SP07": 1
+      },
+      "Moderate": {
+        "SP01": 11,
+        "SP02": 1,
+        "SP03": 2,
+        "SP04": 0,
+        "SP05": 0,
+        "SP06": 1,
+        "SP07": 1
+      }
+    }
+  },
+  "intensity_among_positives_vs_sex": {
+    "test": "Monte Carlo exact test, positives only (Low/Moderate/High)",
+    "n": 43,
+    "chi2": 2.8115981240981243,
+    "p": 0.34567654323456765,
+    "cramers_v": 0.25570686906300133,
+    "min_expected": 1.4651162790697674,
+    "pct_cells_expected_lt5": 33.33333333333333,
+    "table": {
+      "High": {
+        "female": 1,
+        "male": 2
+      },
+      "Low": {
+        "female": 15,
+        "male": 9
+      },
+      "Moderate": {
+        "female": 6,
+        "male": 10
+      }
+    }
+  },
+  "intensity_among_positives_kruskal_species": {
+    "H": 11.59647563352827,
+    "p": 0.07160063139144573
+  },
+  "intensity_among_positives_mannwhitney_sex": {
+    "U": 290.5,
+    "p": 0.10338439213935242
+  },
+  "firth_regression_reference_group": "SP01"
+}

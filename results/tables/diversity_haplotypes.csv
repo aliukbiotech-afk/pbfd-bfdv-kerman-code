@@ -1,0 +1,4 @@
+set,n_seq,n_sites_compared,segregating_sites,n_haplotypes,Hd,pi
+Kerman (this study),10,650,60,10,1.0,0.03131623931623932
+"Iran (all, incl. this study)",31,650,114,29,0.9956989247311828,0.042061207609594704
+All sequences,599,642,376,444,0.9974204499137359,0.055330090032041465
