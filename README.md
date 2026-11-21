@@ -37,22 +37,6 @@ partial Rep sequences*. Ten partial ORF1/Rep sequences are in GenBank (PX634653-
 Tool versions of the reported run (`results/versions.txt`): IQ-TREE 3.1.4, MAFFT 7.526, RAxML-NG 2.0.4,
 EPA-ng 0.3.8, HyPhy 2.5.103, Python 3.13.18, Biopython 1.88, NumPy 2.4.6, pandas 2.2.3, SciPy 1.16.3, statsmodels 0.15.0.
 
-## Notes on the data
-- Original thesis files (Excel sheets, PDF chapters, MEGA trees) are not redistributed. `scripts/prepare_inputs.py`
-  documents how the inputs in `data/` and `metadata/` were derived from them.
-- Host names follow the list supplied by the authors. The 20-bird survey group is recorded as *Agapornis* spp. and
-  the 21-bird group as *Myiopsitta monachus*; both need confirmation by the authors.
-- The S7, S27 and Pb64 submitted sequences are only partly supported by the forward Sanger reads (`results/tables/sanger_qc.csv`).
-- Statistical conventions: Wilson 95% CIs; Monte Carlo exact tests with 100,000 permutations, margins fixed; Firth
-  penalised logistic regression; HyPhy significance p <= 0.1; 1,000 permutations for phylogeny-trait tests.
-
-## Verification summary
-`verify/verify_reproducibility.py` writes `verify/verification_report.txt`, which lists each check (survey statistics recomputed from the raw Excel values, Firth
-regression re-implemented independently, alignment rows compared with the submitted FASTA, Rep translation and motifs,
-diversity indices, placement re-derived from the `.jplace` file, HyPhy outputs, all 589 reference host/country values
-compared with the raw GenBank records, and optionally the numbers printed in a manuscript .docx passed as the first argument). The heavy tools (IQ-TREE, EPA-ng, HyPhy)
-are not re-run by this script; their saved outputs are checked for consistency instead.
-
 ## Figures
 `scripts/make_figures.py` writes Fig 1–5 and Fig S1–S4 (TIFF 600 dpi, PDF, PNG) into `results/figures/`. Figure labels use host species
 instead of isolate IDs; the ID-to-host table is Supplementary Table S6 and the 589 references are in Table S7. The haplotype-network
