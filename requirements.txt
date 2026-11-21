@@ -7,4 +7,4 @@ matplotlib>=3.9
 networkx>=3.3
 biopython>=1.84
 openpyxl>=3.1
-python-docx>=1.1        # only needed by verify/verify_reproducibility.py when checking the manuscript
+python-docx>=1.1        # optional: only needed when verify/verify_reproducibility.py is given a manuscript .docx

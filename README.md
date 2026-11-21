@@ -1,6 +1,8 @@
 # BFDV in pet psittacines, Kerman (Iran): analysis code and results
 
-Code, inputs and results for the manuscript *Subclinical beak and feather disease virus infection in pet
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliukbiotech-afk/pbfd-bfdv-kerman-code/blob/main/PBFD_analysis.ipynb)
+
+Analysis code, inputs and results for the study *Subclinical beak and feather disease virus infection in pet
 psittacine birds in Kerman, south-eastern Iran: prevalence, risk factors and full-genome-guided genotyping of
 partial Rep sequences*. Ten partial ORF1/Rep sequences are in GenBank (PX634653-PX634662).
 
@@ -13,26 +15,24 @@ partial Rep sequences*. Ten partial ORF1/Rep sequences are in GenBank (PX634653-
 | `PBFD_analysis.ipynb`, `build_notebook.py` | Google Colab notebook that runs the whole analysis (21 code cells), and the script that generates it |
 | `headless/`, `make_headless.py` | The same 21 cells as plain scripts for unattended runs (used with the Google Colab CLI) |
 | `results/` | Everything the Colab run produced: trees, alignments, placement, HyPhy JSON, tables, figures, statistics, `versions.txt` |
-| `manuscript/` | `build_manuscript.js` and `build_cover_letter.js` (docx-js; set `DOCX_PATH` to the docx module), `docxfigs/` (downsized figure copies embedded in the manuscript) and `references.json` |
-| `verify/` | Independent verification script and its latest report |
+| `verify/` | Independent verification script (writes `verify/verification_report.txt`) |
 | `FIGURE_COLOUR_KEY.md` | Colour tokens and labelling rules shared by all figures |
-| `Supplementary_Tables.xlsx` | Supplementary Tables S1–S7 (built by `scripts/make_supplement.py`) |
 
 ## Reproducing
 1. **Statistics, figures, supplementary tables (minutes, any computer).**
    ```
    pip install -r requirements.txt
    python scripts/make_figures.py          # re-renders every figure from results/ and metadata/
-   python scripts/make_supplement.py       # writes Supplementary_Tables.xlsx
+   python scripts/make_supplement.py       # writes Supplementary Tables S1-S7 (Supplementary_Tables.xlsx)
    python verify/verify_reproducibility.py # 45 independent checks, writes verify/verification_report.txt
    ```
-2. **Full phylogenetic analysis (about 4 h on a 2-CPU Colab VM).** Open `PBFD_analysis.ipynb` in Google Colab,
-   upload `PBFD_colab_inputs.zip` when asked and run all cells. It installs the tools below, queries NCBI for the
+2. **Full phylogenetic analysis (about 4 h on a 2-CPU Colab VM).** Click the *Open in Colab* badge above and run all
+   cells. The notebook clones this repository for its inputs, so nothing has to be uploaded. It installs the tools below, queries NCBI for the
    reference records (the notebook asks for your own e-mail address, which NCBI requires; the unattended run reported in the paper queried NCBI without one),
    and writes `results.zip`. The random seed is fixed (20261103). Re-running gives the same tree topologies only
    if the same tool versions are used; bootstrap values and ModelFinder output can differ slightly between versions.
-3. **Unattended run with the Colab CLI:** `headless/_launcher.py` and `_start_blocking.py` run cells 1-21 in order
-   (see comments in the files).
+3. **Unattended run with the Colab CLI:** `colab exec -f headless/_start_blocking.py` clones the repository and runs
+   cells 1-21 in order through `headless/_launcher.py` (see comments in the files).
 
 Tool versions of the reported run (`results/versions.txt`): IQ-TREE 3.1.4, MAFFT 7.526, RAxML-NG 2.0.4,
 EPA-ng 0.3.8, HyPhy 2.5.103, Python 3.13.18, Biopython 1.88, NumPy 2.4.6, pandas 2.2.3, SciPy 1.16.3, statsmodels 0.15.0.
@@ -47,10 +47,10 @@ EPA-ng 0.3.8, HyPhy 2.5.103, Python 3.13.18, Biopython 1.88, NumPy 2.4.6, pandas
   penalised logistic regression; HyPhy significance p <= 0.1; 1,000 permutations for phylogeny-trait tests.
 
 ## Verification summary
-`verify/verification_report.txt` lists each check (survey statistics recomputed from the raw Excel values, Firth
+`verify/verify_reproducibility.py` writes `verify/verification_report.txt`, which lists each check (survey statistics recomputed from the raw Excel values, Firth
 regression re-implemented independently, alignment rows compared with the submitted FASTA, Rep translation and motifs,
 diversity indices, placement re-derived from the `.jplace` file, HyPhy outputs, all 589 reference host/country values
-compared with the raw GenBank records, and the numbers printed in the manuscript). The heavy tools (IQ-TREE, EPA-ng, HyPhy)
+compared with the raw GenBank records, and optionally the numbers printed in a manuscript .docx passed as the first argument). The heavy tools (IQ-TREE, EPA-ng, HyPhy)
 are not re-run by this script; their saved outputs are checked for consistency instead.
 
 ## Figures

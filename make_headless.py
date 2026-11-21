@@ -1,13 +1,13 @@
 """Split PBFD_analysis.ipynb into one script per code cell for `colab exec` (headless runs).
-Interactive steps (file upload/download, display, e-mail prompt) are replaced.
-    python analysis/make_headless.py
+Interactive steps (file download, display, e-mail prompt) are replaced.
+    python make_headless.py
 """
 import json, re
 from pathlib import Path
 HERE = Path(__file__).resolve().parent
 nb = json.load(open(HERE / "PBFD_analysis.ipynb", encoding="utf-8"))
 out = HERE / "headless"; out.mkdir(exist_ok=True)
-for f in out.glob("*.py"): f.unlink()
+for f in out.glob("[0-9][0-9].py"): f.unlink()
 n = 0
 for c in nb["cells"]:
     if c["cell_type"] != "code": continue
@@ -19,10 +19,6 @@ for c in nb["cells"]:
         src = src.replace("import os, sys,", "import os, sys,") 
         src = src.replace('EMAIL = ""            #@param {type:"string"}', 'EMAIL = ""   # blank on purpose: no personal e-mail is sent to NCBI')
         src = "import os\n" + src
-    elif first.startswith("#@title Upload inputs"):
-        src = ('import zipfile\nif not (WORK / "inputs" / "scripts").exists():\n'
-               '    zipfile.ZipFile("/content/PBFD_colab_inputs.zip").extractall(WORK / "inputs")\n'
-               + src[src.index("INP = WORK"):])
     elif 'assert EMAIL' in src:
         src = re.sub(r'assert EMAIL.*\n', '', src)
     elif "MF.render_all(RES, META)" in src:

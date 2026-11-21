@@ -1,8 +1,8 @@
-"""Generate PBFD_analysis.ipynb (Colab) and the inputs zip.
+"""Generate PBFD_analysis.ipynb (Colab).
 
-    python analysis/build_notebook.py
+    python build_notebook.py
 """
-import json, zipfile
+import json
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -12,9 +12,11 @@ code = lambda s: cells.append(dict(cell_type="code", metadata={}, execution_coun
 
 md(r"""
 # PBFD – Kerman: reproducible re-analysis (Colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aliukbiotech-afk/pbfd-bfdv-kerman-code/blob/main/PBFD_analysis.ipynb)
+
 Subclinical beak and feather disease virus (BFDV) in 136 pet psittacines, Kerman, Iran: 10 partial ORF1/Rep sequences (PX634653–PX634662).
 
-**How to run:** `Runtime → Run all`. When asked, upload **`PBFD_colab_inputs.zip`** and enter an e-mail address for NCBI Entrez (NCBI requires one). At the end the notebook downloads **`results.zip`**. Put it in `analysis/results/` on your computer.
+**How to run:** click the *Open in Colab* badge, enter an e-mail address for NCBI Entrez in the config cell (NCBI requires one), then `Runtime → Run all`. The inputs (`data/`, `metadata/`, `scripts/`) are cloned automatically from https://github.com/aliukbiotech-afk/pbfd-bfdv-kerman-code; nothing has to be uploaded. At the end the notebook downloads **`results.zip`**.
 
 Runtime is about 1.5–3 h on a standard CPU runtime. Set `FAST = True` in the config cell for a 20–30 min test run with reduced bootstraps.
 
@@ -64,16 +66,14 @@ IQTREE = str(BIN / "iqtree2") if (BIN / "iqtree2").exists() else str(BIN / "iqtr
 MAFFT, RAXML, EPA, HYPHY = (str(BIN / x) for x in ("mafft", "raxml-ng", "epa-ng", "hyphy"))
 """)
 code(r"""
-#@title Upload inputs (PBFD_colab_inputs.zip)
-if not (WORK / "inputs" / "scripts").exists():
-    if IN_COLAB:
-        from google.colab import files
-        up = files.upload()
-        zname = next(iter(up))
-    else:
-        zname = input("path to PBFD_colab_inputs.zip: ")
-    shutil.unpack_archive(zname, WORK / "inputs")
-INP = WORK / "inputs"; DATA, META = INP / "data", INP / "metadata"
+#@title Get inputs (cloned from GitHub)
+REPO_URL = "https://github.com/aliukbiotech-afk/pbfd-bfdv-kerman-code"
+INP = WORK / "inputs"
+if not IN_COLAB and (WORK.parent / "scripts" / "pbfd_phylo.py").exists():
+    INP = WORK.parent                      # notebook run inside a local clone of the repository
+elif not (INP / "scripts").exists():
+    subprocess.run(["git", "clone", "-q", "--depth", "1", REPO_URL, str(INP)], check=True)
+DATA, META = INP / "data", INP / "metadata"
 sys.path.insert(0, str(INP / "scripts"))
 import pbfd_phylo as P, pbfd_stats as S, pbfd_figures as F, make_figures as MF
 from pbfd_names import pending_names
@@ -402,11 +402,4 @@ for c in nb["cells"]:
     c["source"] = c["source"].splitlines(keepends=True)
 json.dump(nb, open(HERE / "PBFD_analysis.ipynb", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
 
-# ---- inputs zip
-z = HERE / "PBFD_colab_inputs.zip"
-with zipfile.ZipFile(z, "w", zipfile.ZIP_DEFLATED) as zf:
-    for sub in ["data", "metadata", "scripts"]:
-        for p in sorted((HERE / sub).rglob("*")):
-            if p.is_file() and "__pycache__" not in p.parts:
-                zf.write(p, p.relative_to(HERE))
-print("wrote", HERE / "PBFD_analysis.ipynb", "and", z, f"({z.stat().st_size/1e6:.1f} MB)")
+print("wrote", HERE / "PBFD_analysis.ipynb")

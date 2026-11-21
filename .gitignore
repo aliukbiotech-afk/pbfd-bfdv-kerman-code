@@ -4,3 +4,10 @@ __pycache__/
 .venv/
 node_modules/
 *.lock
+
+# outputs that belong to the manuscript, not the repository
+Supplementary_Tables.xlsx
+verify/verification_report.txt
+manuscript/
+*.zip
+colab_work/
